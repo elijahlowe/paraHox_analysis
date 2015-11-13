@@ -1,0 +1,641 @@
+Settings:
+  Output files: "lox_bowtie2.*.bt2"
+  Line rate: 6 (line is 64 bytes)
+  Lines per side: 1 (side is 64 bytes)
+  Offset rate: 4 (one in 16)
+  FTable chars: 10
+  Strings: unpacked
+  Max bucket size: default
+  Max bucket size, sqrt multiplier: default
+  Max bucket size, len divisor: 4
+  Difference-cover sample period: 1024
+  Endianness: little
+  Actual local endianness: little
+  Sanity checking: disabled
+  Assertions: disabled
+  Random seed: 0
+  Sizeofs: void*:8, int:4, long:8, size_t:8
+Input files DNA, FASTA:
+  /mnt/home/loweelij/Napoli/Spur_v3.1_assembly/LinearScaffolds/Spur_3.1.LinearScaffold.fa
+Reading reference sizes
+  Time reading reference sizes: 00:00:08
+Calculating joined length
+Writing header
+Reserving space for joined string
+Joining reference sequences
+  Time to join reference sequences: 00:00:04
+bmax according to bmaxDivN setting: 203984064
+Using parameters --bmax 152988048 --dcv 1024
+  Doing ahead-of-time memory usage test
+  Passed!  Constructing with these parameters: --bmax 152988048 --dcv 1024
+Constructing suffix-array element generator
+Building DifferenceCoverSample
+  Building sPrime
+  Building sPrimeOrder
+  V-Sorting samples
+  V-Sorting samples time: 00:00:16
+  Allocating rank array
+  Ranking v-sort output
+  Ranking v-sort output time: 00:00:05
+  Invoking Larsson-Sadakane on ranks
+  Invoking Larsson-Sadakane on ranks time: 00:00:07
+  Sanity-checking and returning
+Building samples
+Reserving space for 12 sample suffixes
+Generating random suffixes
+QSorting 12 sample offsets, eliminating duplicates
+QSorting sample offsets, eliminating duplicates time: 00:00:00
+Multikey QSorting 12 samples
+  (Using difference cover)
+  Multikey QSorting samples time: 00:00:00
+Calculating bucket sizes
+  Binary sorting into buckets
+  10%
+  20%
+  30%
+  40%
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  Binary sorting into buckets time: 00:00:24
+Splitting and merging
+  Splitting and merging time: 00:00:00
+Split 1, merged 7; iterating...
+  Binary sorting into buckets
+  10%
+  20%
+  30%
+  40%
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  Binary sorting into buckets time: 00:00:20
+Splitting and merging
+  Splitting and merging time: 00:00:00
+Split 1, merged 1; iterating...
+  Binary sorting into buckets
+  10%
+  20%
+  30%
+  40%
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  Binary sorting into buckets time: 00:00:20
+Splitting and merging
+  Splitting and merging time: 00:00:00
+Avg bucket size: 1.35989e+08 (target: 152988047)
+Converting suffix-array elements to index image
+Allocating ftab, absorbFtab
+Entering Ebwt loop
+Getting block 1 of 6
+  Reserving size (152988048) for bucket
+  Calculating Z arrays
+  Calculating Z arrays time: 00:00:00
+  Entering block accumulator loop:
+  10%
+  20%
+  30%
+  40%
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  Block accumulator loop time: 00:00:07
+  Sorting block of length 146987921
+  (Using difference cover)
+  Sorting block time: 00:01:22
+Returning block of 146987922
+Getting block 2 of 6
+  Reserving size (152988048) for bucket
+  Calculating Z arrays
+  Calculating Z arrays time: 00:00:00
+  Entering block accumulator loop:
+  10%
+  20%
+  30%
+  40%
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  Block accumulator loop time: 00:00:09
+  Sorting block of length 140476332
+  (Using difference cover)
+  Sorting block time: 00:01:20
+Returning block of 140476333
+Getting block 3 of 6
+  Reserving size (152988048) for bucket
+  Calculating Z arrays
+  Calculating Z arrays time: 00:00:00
+  Entering block accumulator loop:
+  10%
+  20%
+  30%
+  40%
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  Block accumulator loop time: 00:00:11
+  Sorting block of length 149574146
+  (Using difference cover)
+  Sorting block time: 00:01:26
+Returning block of 149574147
+Getting block 4 of 6
+  Reserving size (152988048) for bucket
+  Calculating Z arrays
+  Calculating Z arrays time: 00:00:00
+  Entering block accumulator loop:
+  10%
+  20%
+  30%
+  40%
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  Block accumulator loop time: 00:00:11
+  Sorting block of length 148850775
+  (Using difference cover)
+  Sorting block time: 00:01:26
+Returning block of 148850776
+Getting block 5 of 6
+  Reserving size (152988048) for bucket
+  Calculating Z arrays
+  Calculating Z arrays time: 00:00:00
+  Entering block accumulator loop:
+  10%
+  20%
+  30%
+  40%
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  Block accumulator loop time: 00:00:10
+  Sorting block of length 130893841
+  (Using difference cover)
+  Sorting block time: 00:01:13
+Returning block of 130893842
+Getting block 6 of 6
+  Reserving size (152988048) for bucket
+  Calculating Z arrays
+  Calculating Z arrays time: 00:00:00
+  Entering block accumulator loop:
+  10%
+  20%
+  30%
+  40%
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  Block accumulator loop time: 00:00:07
+  Sorting block of length 99153238
+  (Using difference cover)
+  Sorting block time: 00:00:53
+Returning block of 99153239
+Exited Ebwt loop
+fchr[A]: 0
+fchr[C]: 256909313
+fchr[G]: 407991604
+fchr[T]: 558906906
+fchr[$]: 815936258
+Exiting Ebwt::buildToDisk()
+Returning from initFromVector
+Wrote 279314031 bytes to primary EBWT file: lox_bowtie2.1.bt2
+Wrote 203984072 bytes to secondary EBWT file: lox_bowtie2.2.bt2
+Re-opening _in1 and _in2 as input streams
+Returning from Ebwt constructor
+Headers:
+    len: 815936258
+    bwtLen: 815936259
+    sz: 203984065
+    bwtSz: 203984065
+    lineRate: 6
+    offRate: 4
+    offMask: 0xfffffff0
+    ftabChars: 10
+    eftabLen: 20
+    eftabSz: 80
+    ftabLen: 1048577
+    ftabSz: 4194308
+    offsLen: 50996017
+    offsSz: 203984068
+    lineSz: 64
+    sideSz: 64
+    sideBwtSz: 48
+    sideBwtLen: 192
+    numSides: 4249669
+    numLines: 4249669
+    ebwtTotLen: 271978816
+    ebwtTotSz: 271978816
+    color: 0
+    reverse: 0
+Total time for call to driver() for forward index: 00:12:23
+Reading reference sizes
+  Time reading reference sizes: 00:00:06
+Calculating joined length
+Writing header
+Reserving space for joined string
+Joining reference sequences
+  Time to join reference sequences: 00:00:04
+  Time to reverse reference sequence: 00:00:01
+bmax according to bmaxDivN setting: 203984064
+Using parameters --bmax 152988048 --dcv 1024
+  Doing ahead-of-time memory usage test
+  Passed!  Constructing with these parameters: --bmax 152988048 --dcv 1024
+Constructing suffix-array element generator
+Building DifferenceCoverSample
+  Building sPrime
+  Building sPrimeOrder
+  V-Sorting samples
+  V-Sorting samples time: 00:00:16
+  Allocating rank array
+  Ranking v-sort output
+  Ranking v-sort output time: 00:00:04
+  Invoking Larsson-Sadakane on ranks
+  Invoking Larsson-Sadakane on ranks time: 00:00:08
+  Sanity-checking and returning
+Building samples
+Reserving space for 12 sample suffixes
+Generating random suffixes
+QSorting 12 sample offsets, eliminating duplicates
+QSorting sample offsets, eliminating duplicates time: 00:00:00
+Multikey QSorting 12 samples
+  (Using difference cover)
+  Multikey QSorting samples time: 00:00:00
+Calculating bucket sizes
+  Binary sorting into buckets
+  10%
+  20%
+  30%
+  40%
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  Binary sorting into buckets time: 00:00:24
+Splitting and merging
+  Splitting and merging time: 00:00:00
+Split 1, merged 7; iterating...
+  Binary sorting into buckets
+  10%
+  20%
+  30%
+  40%
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  Binary sorting into buckets time: 00:00:21
+Splitting and merging
+  Splitting and merging time: 00:00:00
+Split 1, merged 1; iterating...
+  Binary sorting into buckets
+  10%
+  20%
+  30%
+  40%
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  Binary sorting into buckets time: 00:00:20
+Splitting and merging
+  Splitting and merging time: 00:00:00
+Split 1, merged 0; iterating...
+  Binary sorting into buckets
+  10%
+  20%
+  30%
+  40%
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  Binary sorting into buckets time: 00:00:21
+Splitting and merging
+  Splitting and merging time: 00:00:00
+Split 1, merged 1; iterating...
+  Binary sorting into buckets
+  10%
+  20%
+  30%
+  40%
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  Binary sorting into buckets time: 00:00:21
+Splitting and merging
+  Splitting and merging time: 00:00:00
+Split 1, merged 0; iterating...
+Avg bucket size: 9.06596e+07 (target: 152988047)
+Converting suffix-array elements to index image
+Allocating ftab, absorbFtab
+Entering Ebwt loop
+Getting block 1 of 9
+  Reserving size (152988048) for bucket
+  Calculating Z arrays
+  Calculating Z arrays time: 00:00:00
+  Entering block accumulator loop:
+  10%
+  20%
+  30%
+  40%
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  Block accumulator loop time: 00:00:07
+  Sorting block of length 101958156
+  (Using difference cover)
+  Sorting block time: 00:00:55
+Returning block of 101958157
+Getting block 2 of 9
+  Reserving size (152988048) for bucket
+  Calculating Z arrays
+  Calculating Z arrays time: 00:00:00
+  Entering block accumulator loop:
+  10%
+  20%
+  30%
+  40%
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  Block accumulator loop time: 00:00:08
+  Sorting block of length 130962982
+  (Using difference cover)
+  Sorting block time: 00:01:12
+Returning block of 130962983
+Getting block 3 of 9
+  Reserving size (152988048) for bucket
+  Calculating Z arrays
+  Calculating Z arrays time: 00:00:00
+  Entering block accumulator loop:
+  10%
+  20%
+  30%
+  40%
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  Block accumulator loop time: 00:00:09
+  Sorting block of length 71368164
+  (Using difference cover)
+  Sorting block time: 00:00:36
+Returning block of 71368165
+Getting block 4 of 9
+  Reserving size (152988048) for bucket
+  Calculating Z arrays
+  Calculating Z arrays time: 00:00:00
+  Entering block accumulator loop:
+  10%
+  20%
+  30%
+  40%
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  Block accumulator loop time: 00:00:09
+  Sorting block of length 103702298
+  (Using difference cover)
+  Sorting block time: 00:00:56
+Returning block of 103702299
+Getting block 5 of 9
+  Reserving size (152988048) for bucket
+  Calculating Z arrays
+  Calculating Z arrays time: 00:00:00
+  Entering block accumulator loop:
+  10%
+  20%
+  30%
+  40%
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  Block accumulator loop time: 00:00:10
+  Sorting block of length 44374452
+  (Using difference cover)
+  Sorting block time: 00:00:20
+Returning block of 44374453
+Getting block 6 of 9
+  Reserving size (152988048) for bucket
+  Calculating Z arrays
+  Calculating Z arrays time: 00:00:00
+  Entering block accumulator loop:
+  10%
+  20%
+  30%
+  40%
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  Block accumulator loop time: 00:00:11
+  Sorting block of length 111762230
+  (Using difference cover)
+  Sorting block time: 00:01:01
+Returning block of 111762231
+Getting block 7 of 9
+  Reserving size (152988048) for bucket
+  Calculating Z arrays
+  Calculating Z arrays time: 00:00:00
+  Entering block accumulator loop:
+  10%
+  20%
+  30%
+  40%
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  Block accumulator loop time: 00:00:08
+  Sorting block of length 30928887
+  (Using difference cover)
+  Sorting block time: 00:00:14
+Returning block of 30928888
+Getting block 8 of 9
+  Reserving size (152988048) for bucket
+  Calculating Z arrays
+  Calculating Z arrays time: 00:00:00
+  Entering block accumulator loop:
+  10%
+  20%
+  30%
+  40%
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  Block accumulator loop time: 00:00:10
+  Sorting block of length 140466811
+  (Using difference cover)
+  Sorting block time: 00:01:19
+Returning block of 140466812
+Getting block 9 of 9
+  Reserving size (152988048) for bucket
+  Calculating Z arrays
+  Calculating Z arrays time: 00:00:00
+  Entering block accumulator loop:
+  10%
+  20%
+  30%
+  40%
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  Block accumulator loop time: 00:00:07
+  Sorting block of length 80412270
+  (Using difference cover)
+  Sorting block time: 00:00:47
+Returning block of 80412271
+Exited Ebwt loop
+fchr[A]: 0
+fchr[C]: 256909313
+fchr[G]: 407991604
+fchr[T]: 558906906
+fchr[$]: 815936258
+Exiting Ebwt::buildToDisk()
+Returning from initFromVector
+Wrote 279314031 bytes to primary EBWT file: lox_bowtie2.rev.1.bt2
+Wrote 203984072 bytes to secondary EBWT file: lox_bowtie2.rev.2.bt2
+Re-opening _in1 and _in2 as input streams
+Returning from Ebwt constructor
+Headers:
+    len: 815936258
+    bwtLen: 815936259
+    sz: 203984065
+    bwtSz: 203984065
+    lineRate: 6
+    offRate: 4
+    offMask: 0xfffffff0
+    ftabChars: 10
+    eftabLen: 20
+    eftabSz: 80
+    ftabLen: 1048577
+    ftabSz: 4194308
+    offsLen: 50996017
+    offsSz: 203984068
+    lineSz: 64
+    sideSz: 64
+    sideBwtSz: 48
+    sideBwtLen: 192
+    numSides: 4249669
+    numLines: 4249669
+    ebwtTotLen: 271978816
+    ebwtTotSz: 271978816
+    color: 0
+    reverse: 1
+Total time for backward call to driver() for mirror index: 00:13:13
+Job Id: 28151606.mgr-04.i
+    Job_Name = sp_lox_tophat_48
+    Job_Owner = loweelij@gateway-00
+    resources_used.cput = 00:24:19
+    resources_used.energy_used = 0
+    resources_used.mem = 1575696kb
+    resources_used.vmem = 1832288kb
+    resources_used.walltime = 00:24:24
+    job_state = R
+    queue = main
+    server = mgr-04.i
+    Account_Name = ged
+    Checkpoint = u
+    ctime = Thu Nov 12 10:43:13 2015
+    Error_Path = gateway-00:/mnt/home/loweelij/paraHox_analysis/scripts/trash/
+	sp_lox_tophat_48.e28151606
+    exec_host = qml-002/36-44
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = abe
+    Mail_Users = elijahlowe@gmail.com
+    mtime = Thu Nov 12 10:44:10 2015
+    Output_Path = gateway-00:/mnt/home/loweelij/paraHox_analysis/scripts/trash
+	/sp_lox_tophat_48.o28151606
+    Priority = 0
+    qtime = Thu Nov 12 10:43:13 2015
+    Rerunable = False
+    Resource_List.mem = 64gb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=9
+    Resource_List.walltime = 96:00:00
+    session_id = 19579
+    Variable_List = PBS_O_QUEUE=main,PBS_O_HOME=/mnt/home/loweelij,
+	PBS_O_LOGNAME=loweelij,
+	PBS_O_PATH=/usr/lib64/qt-3.3/bin:/opt/software/lmod/bin:/usr/bin:/usr
+	/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/hp
+	cc/bin:/mnt/home/loweelij/kmerspectrumanalyzer/src/export,
+	PBS_O_MAIL=/var/spool/mail/loweelij,PBS_O_SHELL=/bin/bash,
+	PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/mnt/home/loweelij/paraHox_analysis/scripts/trash,
+	PBS_O_HOST=gateway-00,PBS_O_SERVER=mgr-04
+    euser = loweelij
+    egroup = cse
+    queue_type = E
+    etime = Thu Nov 12 10:43:13 2015
+    submit_args = ../sp_lox48.qsub
+    start_time = Thu Nov 12 10:44:10 2015
+    Walltime.Remaining = 344060
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = gateway-00
+

@@ -1,0 +1,101 @@
+
+To run Trimmomatic use 'java -jar $TRIM/trimmomatic'.
+===================================
+When using Trimmomatic with -threads, please request one additional ppn (e.g. -threads 4 requests ppn=5)
+
+TrimmomaticPE: Started with arguments: -threads 4 48h_C_ACAGTG_L004_R1_001.fastq.gz 48h_C_ACAGTG_L004_R2_001.fastq.gz s1_pe s1_se s2_pe s2_se HEADCROP:14 ILLUMINACLIP:/opt/software/Trimmomatic/0.32/adapters/TruSeq3-PE.fa:2:40:15 LEADING:5 TRAILING:5 SLIDINGWINDOW:4:5 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 18597618 Both Surviving: 18058371 (97.10%) Forward Only Surviving: 390055 (2.10%) Reverse Only Surviving: 127874 (0.69%) Dropped: 21318 (0.11%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments: -threads 4 48h_C_ACAGTG_L005_R1_001.fastq.gz 48h_C_ACAGTG_L005_R2_001.fastq.gz s1_pe s1_se s2_pe s2_se HEADCROP:14 ILLUMINACLIP:/opt/software/Trimmomatic/0.32/adapters/TruSeq3-PE.fa:2:40:15 LEADING:5 TRAILING:5 SLIDINGWINDOW:4:5 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 19382140 Both Surviving: 18827349 (97.14%) Forward Only Surviving: 395414 (2.04%) Reverse Only Surviving: 135523 (0.70%) Dropped: 23854 (0.12%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments: -threads 4 48h_C_ACAGTG_L006_R1_001.fastq.gz 48h_C_ACAGTG_L006_R2_001.fastq.gz s1_pe s1_se s2_pe s2_se HEADCROP:14 ILLUMINACLIP:/opt/software/Trimmomatic/0.32/adapters/TruSeq3-PE.fa:2:40:15 LEADING:5 TRAILING:5 SLIDINGWINDOW:4:5 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 19365919 Both Surviving: 18762903 (96.89%) Forward Only Surviving: 440684 (2.28%) Reverse Only Surviving: 137224 (0.71%) Dropped: 25108 (0.13%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments: -threads 4 48h_L_GCCAAT_L004_R1_001.fastq.gz 48h_L_GCCAAT_L004_R2_001.fastq.gz s1_pe s1_se s2_pe s2_se HEADCROP:14 ILLUMINACLIP:/opt/software/Trimmomatic/0.32/adapters/TruSeq3-PE.fa:2:40:15 LEADING:5 TRAILING:5 SLIDINGWINDOW:4:5 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 18092015 Both Surviving: 17608055 (97.33%) Forward Only Surviving: 342994 (1.90%) Reverse Only Surviving: 121877 (0.67%) Dropped: 19089 (0.11%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments: -threads 4 48h_L_GCCAAT_L005_R1_001.fastq.gz 48h_L_GCCAAT_L005_R2_001.fastq.gz s1_pe s1_se s2_pe s2_se HEADCROP:14 ILLUMINACLIP:/opt/software/Trimmomatic/0.32/adapters/TruSeq3-PE.fa:2:40:15 LEADING:5 TRAILING:5 SLIDINGWINDOW:4:5 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 18774169 Both Surviving: 18284931 (97.39%) Forward Only Surviving: 341840 (1.82%) Reverse Only Surviving: 126812 (0.68%) Dropped: 20586 (0.11%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments: -threads 4 48h_L_GCCAAT_L006_R1_001.fastq.gz 48h_L_GCCAAT_L006_R2_001.fastq.gz s1_pe s1_se s2_pe s2_se HEADCROP:14 ILLUMINACLIP:/opt/software/Trimmomatic/0.32/adapters/TruSeq3-PE.fa:2:40:15 LEADING:5 TRAILING:5 SLIDINGWINDOW:4:5 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 18784887 Both Surviving: 18248160 (97.14%) Forward Only Surviving: 386778 (2.06%) Reverse Only Surviving: 128148 (0.68%) Dropped: 21801 (0.12%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments: -threads 4 72h_C_CTTGTA_L004_R1_001.fastq.gz 72h_C_CTTGTA_L004_R2_001.fastq.gz s1_pe s1_se s2_pe s2_se HEADCROP:14 ILLUMINACLIP:/opt/software/Trimmomatic/0.32/adapters/TruSeq3-PE.fa:2:40:15 LEADING:5 TRAILING:5 SLIDINGWINDOW:4:5 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 18223872 Both Surviving: 17687706 (97.06%) Forward Only Surviving: 386159 (2.12%) Reverse Only Surviving: 127345 (0.70%) Dropped: 22662 (0.12%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments: -threads 4 72h_C_CTTGTA_L005_R1_001.fastq.gz 72h_C_CTTGTA_L005_R2_001.fastq.gz s1_pe s1_se s2_pe s2_se HEADCROP:14 ILLUMINACLIP:/opt/software/Trimmomatic/0.32/adapters/TruSeq3-PE.fa:2:40:15 LEADING:5 TRAILING:5 SLIDINGWINDOW:4:5 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 18933672 Both Surviving: 18391172 (97.13%) Forward Only Surviving: 383782 (2.03%) Reverse Only Surviving: 133766 (0.71%) Dropped: 24952 (0.13%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments: -threads 4 72h_C_CTTGTA_L006_R1_001.fastq.gz 72h_C_CTTGTA_L006_R2_001.fastq.gz s1_pe s1_se s2_pe s2_se HEADCROP:14 ILLUMINACLIP:/opt/software/Trimmomatic/0.32/adapters/TruSeq3-PE.fa:2:40:15 LEADING:5 TRAILING:5 SLIDINGWINDOW:4:5 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 18916828 Both Surviving: 18324860 (96.87%) Forward Only Surviving: 432050 (2.28%) Reverse Only Surviving: 133963 (0.71%) Dropped: 25955 (0.14%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments: -threads 4 72h_L_GTGAAA_L004_R1_001.fastq.gz 72h_L_GTGAAA_L004_R2_001.fastq.gz s1_pe s1_se s2_pe s2_se HEADCROP:14 ILLUMINACLIP:/opt/software/Trimmomatic/0.32/adapters/TruSeq3-PE.fa:2:40:15 LEADING:5 TRAILING:5 SLIDINGWINDOW:4:5 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 15123416 Both Surviving: 14727533 (97.38%) Forward Only Surviving: 288290 (1.91%) Reverse Only Surviving: 92261 (0.61%) Dropped: 15332 (0.10%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments: -threads 4 72h_L_GTGAAA_L005_R1_001.fastq.gz 72h_L_GTGAAA_L005_R2_001.fastq.gz s1_pe s1_se s2_pe s2_se HEADCROP:14 ILLUMINACLIP:/opt/software/Trimmomatic/0.32/adapters/TruSeq3-PE.fa:2:40:15 LEADING:5 TRAILING:5 SLIDINGWINDOW:4:5 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 15608726 Both Surviving: 15212148 (97.46%) Forward Only Surviving: 284555 (1.82%) Reverse Only Surviving: 95524 (0.61%) Dropped: 16499 (0.11%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments: -threads 4 72h_L_GTGAAA_L006_R1_001.fastq.gz 72h_L_GTGAAA_L006_R2_001.fastq.gz s1_pe s1_se s2_pe s2_se HEADCROP:14 ILLUMINACLIP:/opt/software/Trimmomatic/0.32/adapters/TruSeq3-PE.fa:2:40:15 LEADING:5 TRAILING:5 SLIDINGWINDOW:4:5 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 15549718 Both Surviving: 15121880 (97.25%) Forward Only Surviving: 314629 (2.02%) Reverse Only Surviving: 95983 (0.62%) Dropped: 17226 (0.11%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments: -threads 4 CTRLLOX1_GTGGCC_L001_R1_001.fastq.gz CTRLLOX1_GTGGCC_L001_R2_001.fastq.gz s1_pe s1_se s2_pe s2_se HEADCROP:14 ILLUMINACLIP:/opt/software/Trimmomatic/0.32/adapters/TruSeq3-PE.fa:2:40:15 LEADING:5 TRAILING:5 SLIDINGWINDOW:4:5 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 18255987 Both Surviving: 18043984 (98.84%) Forward Only Surviving: 182022 (1.00%) Reverse Only Surviving: 17966 (0.10%) Dropped: 12015 (0.07%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments: -threads 4 CTRLLOX2_CGTACG_L001_R1_001.fastq.gz CTRLLOX2_CGTACG_L001_R2_001.fastq.gz s1_pe s1_se s2_pe s2_se HEADCROP:14 ILLUMINACLIP:/opt/software/Trimmomatic/0.32/adapters/TruSeq3-PE.fa:2:40:15 LEADING:5 TRAILING:5 SLIDINGWINDOW:4:5 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 23706440 Both Surviving: 23401589 (98.71%) Forward Only Surviving: 267560 (1.13%) Reverse Only Surviving: 21941 (0.09%) Dropped: 15350 (0.06%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments: -threads 4 LOX1_GTTTCG_L001_R1_001.fastq.gz LOX1_GTTTCG_L001_R2_001.fastq.gz s1_pe s1_se s2_pe s2_se HEADCROP:14 ILLUMINACLIP:/opt/software/Trimmomatic/0.32/adapters/TruSeq3-PE.fa:2:40:15 LEADING:5 TRAILING:5 SLIDINGWINDOW:4:5 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 22361646 Both Surviving: 21985072 (98.32%) Forward Only Surviving: 338576 (1.51%) Reverse Only Surviving: 22813 (0.10%) Dropped: 15185 (0.07%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments: -threads 4 LOX2_GAGTGG_L001_R1_001.fastq.gz LOX2_GAGTGG_L001_R2_001.fastq.gz s1_pe s1_se s2_pe s2_se HEADCROP:14 ILLUMINACLIP:/opt/software/Trimmomatic/0.32/adapters/TruSeq3-PE.fa:2:40:15 LEADING:5 TRAILING:5 SLIDINGWINDOW:4:5 MINLEN:25
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 21052811 Both Surviving: 20838567 (98.98%) Forward Only Surviving: 180488 (0.86%) Reverse Only Surviving: 20263 (0.10%) Dropped: 13493 (0.06%)
+TrimmomaticPE: Completed successfully

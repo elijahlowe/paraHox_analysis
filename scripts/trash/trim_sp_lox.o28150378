@@ -1,0 +1,56 @@
+28150398.mgr-04.i
+28150399.mgr-04.i
+Job Id: 28150378.mgr-04.i
+    Job_Name = trim_sp_lox
+    Job_Owner = loweelij@gateway-00
+    resources_used.cput = 01:29:20
+    resources_used.energy_used = 0
+    resources_used.mem = 10456684kb
+    resources_used.vmem = 36835536kb
+    resources_used.walltime = 00:13:46
+    job_state = R
+    queue = main
+    server = mgr-04.i
+    Account_Name = ged
+    Checkpoint = u
+    ctime = Thu Nov 12 06:39:40 2015
+    Error_Path = gateway-00:/mnt/home/loweelij/paraHox_analysis/scripts/trash/
+	trim_sp_lox.e28150378
+    exec_host = qml-002/25-29
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = abe
+    Mail_Users = elijahlowe@gmail.com
+    mtime = Thu Nov 12 06:40:37 2015
+    Output_Path = gateway-00:/mnt/home/loweelij/paraHox_analysis/scripts/trash
+	/trim_sp_lox.o28150378
+    Priority = 0
+    qtime = Thu Nov 12 06:39:40 2015
+    Rerunable = False
+    Resource_List.mem = 16gb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=5
+    Resource_List.walltime = 24:00:00
+    session_id = 114995
+    Variable_List = PBS_O_QUEUE=main,PBS_O_HOME=/mnt/home/loweelij,
+	PBS_O_LOGNAME=loweelij,
+	PBS_O_PATH=/usr/lib64/qt-3.3/bin:/opt/software/lmod/bin:/usr/bin:/usr
+	/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/hp
+	cc/bin:/mnt/home/loweelij/kmerspectrumanalyzer/src/export,
+	PBS_O_MAIL=/var/spool/mail/loweelij,PBS_O_SHELL=/bin/bash,
+	PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/mnt/home/loweelij/paraHox_analysis/scripts/trash,
+	PBS_O_HOST=gateway-00,PBS_O_SERVER=mgr-04
+    euser = loweelij
+    egroup = cse
+    queue_type = E
+    etime = Thu Nov 12 06:39:40 2015
+    submit_args = ../trim_splox.qsub
+    start_time = Thu Nov 12 06:40:37 2015
+    Walltime.Remaining = 85532
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = gateway-00
+
