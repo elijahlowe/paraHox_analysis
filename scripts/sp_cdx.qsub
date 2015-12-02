@@ -1,7 +1,7 @@
 #!/bin/bash -login 
 
 #PBS -l walltime=96:00:00,nodes=1:ppn=9,mem=64gb
-#PBS -N sp_lox_tophat
+#PBS -N sp_cdx_tophat
 #PBS -A ged
 #PBS -M elijahlowe@gmail.com
 #PBS -m abe                                                                                                                                                                                                     
@@ -10,17 +10,17 @@ module load bowtie2
 module load TopHat/2.0.8b
 module load HTSeq/0.6.1
 
-WKDR=${SCRATCH}/urchin_lox/tophat/lox_72
+WKDR=${SCRATCH}/urchin_cdx/tophat/
 mkdir $WKDR
 cd $WKDR
-ln -fs ${SCRATCH}/urchin_lox/72*trim.fq .
+ln -fs ${SCRATCH}/urchin_cdx/*trim.fq .
 
-sample[1]=72h_C_CTTGTA_L004
-sample[2]=72h_C_CTTGTA_L005
-sample[3]=72h_C_CTTGTA_L006
-sample[4]=72h_L_GTGAAA_L004
-sample[5]=72h_L_GTGAAA_L005
-sample[6]=72h_L_GTGAAA_L006
+sample[1]=SpCdx1_ATCACG_L002
+sample[2]=SpCdx2_GATCAG_L002
+sample[3]=SpCdx3_CCGTCC_L002
+sample[4]=SpCdxContr1_TTAGGC_L002
+sample[5]=SpCdxContr2_TAGCTT_L002
+sample[6]=SpCdxContr3_GTCCGC_L002
 
 reference='/mnt/home/loweelij/Napoli/Spur_v3.1_assembly/LinearScaffolds/Spur_3.1.LinearScaffold.fa'
 reference_index=lox_bowtie2

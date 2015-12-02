@@ -1,30 +1,28 @@
 #!/bin/bash -login 
 
 #PBS -l walltime=96:00:00,nodes=1:ppn=9,mem=64gb
-#PBS -N sp_lox_tophat
+#PBS -N pm_cdx_tophat
 #PBS -A ged
 #PBS -M elijahlowe@gmail.com
 #PBS -m abe                                                                                                                                                                                                     
 
 module load bowtie2
 module load TopHat/2.0.8b
-module load HTSeq/0.6.1
 
-WKDR=${SCRATCH}/urchin_lox/tophat/lox_72
-mkdir $WKDR
+WKDR=${SCRATCH}/starfish_cdx/tophat/
+mkdir -p $WKDR
 cd $WKDR
-ln -fs ${SCRATCH}/urchin_lox/72*trim.fq .
+ln -fs ${SCRATCH}/pm/*CDX*trim.fq .
 
-sample[1]=72h_C_CTTGTA_L004
-sample[2]=72h_C_CTTGTA_L005
-sample[3]=72h_C_CTTGTA_L006
-sample[4]=72h_L_GTGAAA_L004
-sample[5]=72h_L_GTGAAA_L005
-sample[6]=72h_L_GTGAAA_L006
+sample[1]=PM_CDX_N10_AGTCAA_L002
+sample[2]=PM_CDX_N8_ATCACG_L001
+sample[3]=PM_CDX_N9_ACTTGA_L001
+sample[4]=PM_CONTR_CDX_N10_CTTGTA_L001
+sample[5]=PM_CONTR_CDX_N8_ACAGTG_L001
+sample[6]=PM_CONTR_CDX_N9_GCCAAT_L001
 
 reference='/mnt/home/loweelij/Napoli/Spur_v3.1_assembly/LinearScaffolds/Spur_3.1.LinearScaffold.fa'
 reference_index=lox_bowtie2
-gff=${HOME}/Napoli/SpBase3.1_build7.gff3/Transcriptome.gff3
 
 bowtie2-build ${reference} ${reference_index}
 for i in 1 2 3 4 5 6
@@ -32,7 +30,6 @@ do
     tophat -p 8 -o ${sample[i]} ${reference_index} ${sample[i]}_R1_001.trim.fq ${sample[i]}_R2_001.trim.fq,${sample[i]}_SE_001.trim.fq
     samtools sort -n ${sample[i]}/accepted_hits.bam ${sample[i]}/accepted_hits.sorted
     samtools index ${sample[i]}/accepted_hits.sorted.bam
-    htseq-count --format=bam -a5 --stranded=no --type=gene --order=name --idattr=ID ${sample[i]}/accepted_hits.sorted.bam $gff > ${sample[i]}_htseq_counts.txt
 done
 
 qstat -f ${PBS_JOBID}

@@ -8,10 +8,10 @@
 
 module load Trimmomatic/0.32
 
-WKD=${SCRATCH}/urchin_lox/
+WKD=${SCRATCH}/pm/
 mkdir $WKD
 cd $WKD
-ln -fs ${HOME}/Napoli/hard_drive/dati_RNA_Seq/*/*gz .
+ln -fs ${HOME}/Napoli/Patiria_miniata/11022015_reads/*X*gz .
 
 for i in *R1_001.fastq.gz
 do
@@ -21,8 +21,8 @@ do
     cat s1_se s2_se > ${i/R1_001.fastq.gz/SE_001.trim.fq}
 done
 
-qsub ${HOME}/paraHox_analysis/scripts/sp_lox48.qsub
-qsub ${HOME}/paraHox_analysis/scripts/sp_lox72.qsub
+qsub ${HOME}/paraHox_analysis/scripts/pm_lox.qsub
+qsub ${HOME}/paraHox_analysis/scripts/pm_cdx.qsub
 
 qstat -f ${PBS_JOBID}
 
