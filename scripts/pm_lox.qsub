@@ -8,6 +8,7 @@
 
 module load bowtie2
 module load TopHat/2.0.8b
+module load HTSeq/0.6.1
 
 WKDR=${SCRATCH}/starfish_lox/tophat/
 mkdir $WKDR
@@ -21,8 +22,9 @@ sample[4]=PM_LOX_N2_5_ATGTCA_L002
 sample[5]=PM_LOX_N3_4_GTCCGC_L002
 sample[6]=PM_LOX_N8_TGACCA_L001
 
-reference='/mnt/home/loweelij/Napoli/Spur_v3.1_assembly/LinearScaffolds/Spur_3.1.LinearScaffold.fa'
+reference='/mnt/home/loweelij/Napoli/Patiria_miniata/genome/pmin.scaf.v1.fa'
 reference_index=lox_bowtie2
+gff=genes2.gff
 
 bowtie2-build ${reference} ${reference_index}
 for i in 1 2 3 4 5 6
@@ -30,6 +32,7 @@ do
     tophat -p 8 -o ${sample[i]} ${reference_index} ${sample[i]}_R1_001.trim.fq ${sample[i]}_R2_001.trim.fq,${sample[i]}_SE_001.trim.fq
     samtools sort ${sample[i]}/accepted_hits.bam ${sample[i]}/accepted_hits.sorted
     samtools index ${sample[i]}/accepted_hits.sorted.bam
+    htseq-count --format=bam -a5 --stranded=no --type=gene --order=name --idattr=ID ${sample[i]}/accepted_hits.sorted.bam $gff > ${sample[i]}_htseq_counts.txt
 done
 
 qstat -f ${PBS_JOBID}
