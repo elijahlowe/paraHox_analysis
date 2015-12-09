@@ -24,7 +24,7 @@ sample[6]=PM_CONTR_CDX_N9_GCCAAT_L001
 
 reference='/mnt/home/loweelij/Napoli/Patiria_miniata/genome/pmin.scaf.v1.fa'
 reference_index=lox_bowtie2
-gff=genes2.gff
+gff=genes2.gff3
 
 bowtie2-build ${reference} ${reference_index}
 for i in 1 2 3 4 5 6
