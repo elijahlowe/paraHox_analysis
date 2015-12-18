@@ -64,7 +64,7 @@ pm_cdx_lox.design
 
 Pm.deseq.data$condition <- relevel(Pm.deseq.data$condition, "ctrl")
 
-dds.pm <- DESeq(Pm.deseq.data,test="LRT", reduced=~condition)
+dds.pm <- DESeq(Pm.deseq.data,test="LRT", reduced=~batch)
 plotDispEsts(dds.pm)
 resultsNames(dds.pm)
 res.pm<-results(dds.pm)
@@ -81,8 +81,11 @@ RA_path_cdx<-c("PMI_008803")
 stomach_tdg<-c("PMI_009038")
 
 
-plotMA(cdx_ctrl.pm, ylim=c(-5,5),lwd=1,cex=0.75,alpha=0.05,main="PmCdx MO 90hpf")
-
+plotMA(cdx_ctrl.pm, ylim=c(-5,5),lwd=1,cex=0.75,alpha=0.1,main="PmCdx MO 90hpf")
+with(cdx_ctrl.pm["PMI_028602", ], {
+  points(baseMean, log2FoldChange, col="green", cex=2, lwd=2)
+  text(baseMean, log2FoldChange, "Hox11/13b", pos=4, col="purple",lwd=6)
+})
 with(cdx_ctrl.pm[unknown, ], {
   points(baseMean, log2FoldChange, col="pink", cex=1.5, lwd=2, pch=18)
 })

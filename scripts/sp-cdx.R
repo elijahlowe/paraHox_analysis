@@ -112,7 +112,7 @@ with(cdx_ctrl.sp[stomach_tdg, ], {
 
 cdx_ctrl_reduced.resOrdered <- cdx_ctrl.sp[order(cdx_ctrl.sp$padj),]
 cdx_ctrl_reduced.resSig <- subset(cdx_ctrl_reduced.resOrdered, padj <= 0.05 & abs(log2FoldChange)>=0.05)
-write.csv(as.data.frame(cdx_ctrl_reduced.resSig),file="Sp-cdx_ctrl.resSig_resultsRl2fc05.csv", quote=FALSE)
+write.csv(as.data.frame(cdx_ctrl_reduced.resSig),file="Sp-cdx_ctrl.adjp05l2fc05.csv", quote=FALSE)
 
 data <- plotCounts(ddsMF, "WHL22.23530.1", intgroup=c("condition","batch"), returnData=TRUE)
 ggplot(data, aes(x=condition, y=count, color=batch)) +
