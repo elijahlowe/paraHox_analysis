@@ -30,10 +30,10 @@ Gene onthology was conducted with both [Panther] and [BLAST2GO]. Gene orthology 
 [Panther]: http://www.pantherdb.org/
 [BLAST2GO]: https://www.blast2go.com/
 [OrthoMCL]: http://www.orthomcl.org/orthomcl/
-[Human (Homo sapiens)]: ftp://ftp.ensembl.org/pub/release-83/fasta/homo_sapiens/pep/Homo_sapiens.GRCh38.pep.all.fa.gz
-[Mouse (Mus musculus)]: ftp://ftp.ensembl.org/pub/release-83/fasta/mus_musculus/pep/Mus_musculus.GRCm38.pep.all.fa.gz
+[Human (Homo sapiens)]: ftp://ftp.ensembl.org/pub/release-83/fasta/homo_sapiens/pep/
+[Mouse (Mus musculus)]: ftp://ftp.ensembl.org/pub/release-83/fasta/mus_musculus/pep/
 [Elephant shark (Callorhinchus milii)]: http://esharkgenome.imcb.a-star.edu.sg/download/
-[Ciona intestinalis]:ftp://ftp.ensembl.org/pub/release-83/fasta/ciona_intestinalis/pep/Ciona_intestinalis.KH.pep.all.fa.gz
-[Platypus (Ornithorhynchus anatinus)]: ftp://ftp.ensembl.org/pub/release-83/fasta/ornithorhynchus_anatinus/pep/Ornithorhynchus_anatinus.OANA5.pep.all.fa.gz
-[Spotted gar (Lepisosteus oculatus)]: ftp://ftp.ensembl.org/pub/release-83/fasta/lepisosteus_oculatus/pep/Lepisosteus_oculatus.LepOcu1.pep.all.fa.gz
-[Xenopus tropicalis]: ftp://ftp.ensembl.org/pub/release-83/fasta/xenopus_tropicalis/pep/Xenopus_tropicalis.JGI_4.2.pep.all.fa.gz
+[Ciona intestinalis]:ftp://ftp.ensembl.org/pub/release-83/fasta/ciona_intestinalis/pep/
+[Platypus (Ornithorhynchus anatinus)]: ftp://ftp.ensembl.org/pub/release-83/fasta/ornithorhynchus_anatinus/pep/
+[Spotted gar (Lepisosteus oculatus)]: ftp://ftp.ensembl.org/pub/release-83/fasta/lepisosteus_oculatus/pep/
+[Xenopus tropicalis]: ftp://ftp.ensembl.org/pub/release-83/fasta/xenopus_tropicalis/pep/
