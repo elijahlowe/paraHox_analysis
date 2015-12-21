@@ -19,5 +19,18 @@ python annot_sp.py _input file_ > _output_
 ## Gene onthology and ortholgy
 
 Gene onthology was conducted with both [Panther] and [BLAST2GO]. Gene orthology was conducted using [OrthoMCL] and the following speices:
-Human (Homo sapiens)
-Mouse (Mus musculus)
+[Human (Homo sapiens)]
+[Mouse (Mus musculus)]
+[Elephant shark (Callorhinchus milii)]
+[Ciona intestinalis]
+[Platypus (Ornithorhynchus anatinus)]
+[Spotted gar (Lepisosteus oculatus)]
+[Xenopus tropicalis]
+
+[Mouse (Mus musculus)]: ftp://ftp.ensembl.org/pub/release-83/fasta/mus_musculus/pep/Mus_musculus.GRCm38.pep.all.fa.gz
+[Human (Homo sapiens)]: ftp://ftp.ensembl.org/pub/release-83/fasta/homo_sapiens/pep/Homo_sapiens.GRCh38.pep.all.fa.gz
+[Elephant shark (Callorhinchus milii)]: http://esharkgenome.imcb.a-star.edu.sg/download/
+[Ciona intestinalis]:ftp://ftp.ensembl.org/pub/release-83/fasta/ciona_intestinalis/pep/Ciona_intestinalis.KH.pep.all.fa.gz
+[Platypus (Ornithorhynchus anatinus)]: ftp://ftp.ensembl.org/pub/release-83/fasta/ornithorhynchus_anatinus/pep/Ornithorhynchus_anatinus.OANA5.pep.all.fa.gz
+[Spotted gar (Lepisosteus oculatus)]: ftp://ftp.ensembl.org/pub/release-83/fasta/lepisosteus_oculatus/pep/Lepisosteus_oculatus.LepOcu1.pep.all.fa.gz
+[Xenopus tropicalis]: ftp://ftp.ensembl.org/pub/release-83/fasta/xenopus_tropicalis/pep/Xenopus_tropicalis.JGI_4.2.pep.all.fa.gz
