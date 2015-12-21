@@ -27,8 +27,11 @@ Gene onthology was conducted with both [Panther] and [BLAST2GO]. Gene orthology 
 [Spotted gar (Lepisosteus oculatus)]
 [Xenopus tropicalis]
 
-[Mouse (Mus musculus)]: ftp://ftp.ensembl.org/pub/release-83/fasta/mus_musculus/pep/Mus_musculus.GRCm38.pep.all.fa.gz
+[Panther]: http://www.pantherdb.org/
+[BLAST2GO]: https://www.blast2go.com/
+[OrthoMCL]: http://www.orthomcl.org/orthomcl/
 [Human (Homo sapiens)]: ftp://ftp.ensembl.org/pub/release-83/fasta/homo_sapiens/pep/Homo_sapiens.GRCh38.pep.all.fa.gz
+[Mouse (Mus musculus)]: ftp://ftp.ensembl.org/pub/release-83/fasta/mus_musculus/pep/Mus_musculus.GRCm38.pep.all.fa.gz
 [Elephant shark (Callorhinchus milii)]: http://esharkgenome.imcb.a-star.edu.sg/download/
 [Ciona intestinalis]:ftp://ftp.ensembl.org/pub/release-83/fasta/ciona_intestinalis/pep/Ciona_intestinalis.KH.pep.all.fa.gz
 [Platypus (Ornithorhynchus anatinus)]: ftp://ftp.ensembl.org/pub/release-83/fasta/ornithorhynchus_anatinus/pep/Ornithorhynchus_anatinus.OANA5.pep.all.fa.gz
