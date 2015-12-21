@@ -19,13 +19,13 @@ python annot_sp.py _input file_ > _output_
 ## Gene onthology and ortholgy
 
 Gene onthology was conducted with both [Panther] and [BLAST2GO]. Gene orthology was conducted using [OrthoMCL] and the following speices:
-*[Human (Homo sapiens)]
-*[Mouse (Mus musculus)]
-*[Elephant shark (Callorhinchus milii)]
-*[Ciona intestinalis]
-*[Platypus (Ornithorhynchus anatinus)]
-*[Spotted gar (Lepisosteus oculatus)]
-*[Xenopus tropicalis]
+* [Human (Homo sapiens)]
+* [Mouse (Mus musculus)]
+* [Elephant shark (Callorhinchus milii)]
+* [Ciona intestinalis]
+* [Platypus (Ornithorhynchus anatinus)]
+* [Spotted gar (Lepisosteus oculatus)]
+* [Xenopus tropicalis]
 
 [Panther]: http://www.pantherdb.org/
 [BLAST2GO]: https://www.blast2go.com/
