@@ -33,7 +33,7 @@ Gene onthology was conducted with both [Panther] and [BLAST2GO]. Gene orthology 
 [Human (Homo sapiens)]: ftp://ftp.ensembl.org/pub/release-83/fasta/homo_sapiens/pep/
 [Mouse (Mus musculus)]: ftp://ftp.ensembl.org/pub/release-83/fasta/mus_musculus/pep/
 [Elephant shark (Callorhinchus milii)]: http://esharkgenome.imcb.a-star.edu.sg/download/
-[Ciona intestinalis]:ftp://ftp.ensembl.org/pub/release-83/fasta/ciona_intestinalis/pep/
+[Ciona intestinalis]: ftp://ftp.ensembl.org/pub/release-83/fasta/ciona_intestinalis/pep/
 [Platypus (Ornithorhynchus anatinus)]: ftp://ftp.ensembl.org/pub/release-83/fasta/ornithorhynchus_anatinus/pep/
 [Spotted gar (Lepisosteus oculatus)]: ftp://ftp.ensembl.org/pub/release-83/fasta/lepisosteus_oculatus/pep/
 [Xenopus tropicalis]: ftp://ftp.ensembl.org/pub/release-83/fasta/xenopus_tropicalis/pep/
