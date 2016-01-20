@@ -37,3 +37,8 @@ Gene onthology was conducted with both [Panther] and [BLAST2GO]. Gene orthology 
 [Platypus (Ornithorhynchus anatinus)]: ftp://ftp.ensembl.org/pub/release-83/fasta/ornithorhynchus_anatinus/pep/
 [Spotted gar (Lepisosteus oculatus)]: ftp://ftp.ensembl.org/pub/release-83/fasta/lepisosteus_oculatus/pep/
 [Xenopus tropicalis]: ftp://ftp.ensembl.org/pub/release-83/fasta/xenopus_tropicalis/pep/
+
+#Transcription Factors
+Transcription Factors ID's were downloaded from the [DBD], and [Metazoa Ensembl biomart] was used to identify the 
+
+[DBD]: http://www.transcriptionfactor.org/index.cgi?Download
