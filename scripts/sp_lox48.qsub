@@ -32,7 +32,7 @@ do
     tophat -p 8 -o ${sample[i]} ${reference_index} ${sample[i]}_R1_001.trim.fq ${sample[i]}_R2_001.trim.fq,${sample[i]}_SE_001.trim.fq
     samtools sort -n ${sample[i]}/accepted_hits.bam ${sample[i]}/accepted_hits.sorted
     samtools index ${sample[i]}/accepted_hits.sorted.bam
-    htseq-count --format=bam -a5 --stranded=no --type=gene --order=name --idattr=ID ${sample[i]}/accepted_hits.sorted.bam $gff > ${sample[i]}_htseq_counts.txt
+    htseq-count --format=bam -a5 --stranded=no --type=transcript --order=name --idattr=ID ${sample[i]}/accepted_hits.sorted.bam $gff > ${sample[i]}_transcript_counts.txt
 done
 
 qstat -f ${PBS_JOBID}

@@ -1,7 +1,7 @@
 #!/bin/bash -login 
 
-#PBS -l walltime=96:00:00,nodes=1:ppn=9,mem=64gb
-#PBS -N sp_cdx_tophat
+#PBS -l walltime=9:00:00,nodes=1:ppn=9,mem=64gb
+#PBS -N sp_cdx_tophat_transcript
 #PBS -A ged
 #PBS -M elijahlowe@gmail.com
 #PBS -m abe                                                                                                                                                                                                     
@@ -11,9 +11,9 @@ module load TopHat/2.0.8b
 module load HTSeq/0.6.1
 
 WKDR=${SCRATCH}/urchin_cdx/tophat/
-mkdir $WKDR
+#mkdir $WKDR
 cd $WKDR
-ln -fs ${SCRATCH}/urchin_cdx/*trim.fq .
+#ln -fs ${SCRATCH}/urchin_cdx/*trim.fq .
 
 sample[1]=SpCdx1_ATCACG_L002
 sample[2]=SpCdx2_GATCAG_L002
@@ -32,7 +32,7 @@ do
     tophat -p 8 -o ${sample[i]} ${reference_index} ${sample[i]}_R1_001.trim.fq ${sample[i]}_R2_001.trim.fq,${sample[i]}_SE_001.trim.fq
     samtools sort -n ${sample[i]}/accepted_hits.bam ${sample[i]}/accepted_hits.sorted
     samtools index ${sample[i]}/accepted_hits.sorted.bam
-    htseq-count --format=bam -a5 --stranded=no --type=gene --order=name --idattr=ID ${sample[i]}/accepted_hits.sorted.bam $gff > ${sample[i]}_htseq_counts.txt
+    htseq-count --format=bam -a5 --stranded=no --type=transcript --order=name --idattr=ID ${sample[i]}/accepted_hits.sorted.bam $gff > ${sample[i]}_transcript_counts.txt
 done
 
 qstat -f ${PBS_JOBID}
