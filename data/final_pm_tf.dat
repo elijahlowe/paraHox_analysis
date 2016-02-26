@@ -1,0 +1,631 @@
+bZIP_1               PF00170.16 PMI_000005-RA        -             0.0049   16.6   5.0    0.0049   16.6   5.0   3.3   3   0   0   3   3   3   1 bZIP transcription factor
+RHD                  PF00554.17 PMI_000025-RA        -            5.7e-17   61.8   0.4   4.2e-16   59.0   0.4   2.1   1   1   0   1   1   1   1 Rel homology domain (RHD)
+L_HGMIC_fpl          PF10242.4  PMI_000119-RA        -            2.2e-34  118.9  12.2   8.6e-34  116.9  12.2   1.7   1   1   0   1   1   1   1 Lipoma HMGIC fusion partner-like protein
+PAX                  PF00292.13 PMI_000164-RA        -            1.1e-35  121.9   1.0   8.8e-33  112.5   0.2   2.3   1   1   1   2   2   2   2 'Paired box' domain
+Homeobox             PF00046.24 PMI_000223-RA        -            1.8e-23   81.8   4.7   2.8e-23   81.1   4.7   1.3   1   0   0   1   1   1   1 Homeobox domain
+F-box-like           PF12937.2  PMI_000320-RA        -            1.4e-16   59.8   0.2   3.3e-16   58.6   0.2   1.6   1   0   0   1   1   1   1 F-box-like
+Ets                  PF00178.17 PMI_000442-RA        -            1.4e-36  124.3   0.5   2.2e-36  123.7   0.5   1.3   1   0   0   1   1   1   1 Ets-domain
+zf-NF-X1             PF01422.12 PMI_000443-RA        -            1.8e-05   24.4  39.0   0.00052   19.7  18.3  16.8  16   2   0  16  16  16   7 NF-X1 type zinc finger
+MH2                  PF03166.9  PMI_000520-RA        -            1.3e-24   86.9   0.0   2.4e-24   86.0   0.0   1.4   1   0   0   1   1   1   1 MH2 domain
+Homeobox             PF00046.24 PMI_000585-RA        -              4e-28   96.6   3.9   4.2e-13   48.6   0.3   2.7   2   0   0   2   2   2   2 Homeobox domain
+zf-C2H2              PF00096.21 PMI_000644-RA        -            4.3e-08   33.0  14.3     0.001   19.2   3.3   2.4   2   0   0   2   2   2   2 Zinc finger, C2H2 type
+E2F_TDP              PF02319.15 PMI_000817-RA        -            3.3e-12   45.6   0.1   6.1e-12   44.8   0.1   1.4   1   0   0   1   1   1   1 E2F/DP family winged-helix DNA-binding domain
+Homeobox             PF00046.24 PMI_000871-RA        -            1.2e-23   82.3   6.0   1.9e-23   81.7   6.0   1.3   1   0   0   1   1   1   1 Homeobox domain
+Hormone_recep        PF00104.25 PMI_001061-RA        -            1.5e-31  109.0   0.0   2.3e-31  108.4   0.0   1.1   1   0   0   1   1   1   1 Ligand-binding domain of nuclear hormone receptor
+FBA                  PF04300.8  PMI_001176-RA        -            1.3e-22   80.5   0.1   2.7e-22   79.5   0.1   1.5   1   0   0   1   1   1   1 F-box associated region
+Homeobox             PF00046.24 PMI_001184-RA        -            3.9e-22   77.5   4.1   6.8e-22   76.7   4.1   1.4   1   0   0   1   1   1   1 Homeobox domain
+bZIP_2               PF07716.10 PMI_001297-RA        -            2.6e-08   33.4  10.0   2.6e-08   33.4  10.0   2.8   1   1   1   2   2   2   2 Basic region leucine zipper
+Homeobox             PF00046.24 PMI_001429-RA        -              3e-13   49.0   1.3   6.1e-13   48.0   1.3   1.5   1   0   0   1   1   1   1 Homeobox domain
+HLH                  PF00010.21 PMI_001542-RA        -             0.0066   16.0   3.0     0.022   14.3   0.9   2.2   2   0   0   2   2   2   1 Helix-loop-helix DNA-binding domain
+Hormone_recep        PF00104.25 PMI_001597-RA        -            2.7e-18   65.7   0.0   3.7e-18   65.2   0.0   1.1   1   0   0   1   1   1   1 Ligand-binding domain of nuclear hormone receptor
+zf-GRF               PF06839.7  PMI_001636-RA        -            9.3e-11   41.3   3.9   9.3e-11   41.3   3.9   2.8   2   1   0   2   2   2   1 GRF zinc finger
+PHD                  PF00628.24 PMI_001661-RA        -            4.4e-17   61.3  21.9   9.7e-11   41.0   6.2   2.7   1   1   1   2   2   2   2 PHD-finger
+PHD                  PF00628.24 PMI_001682-RA        -            5.5e-07   29.0  10.7     1e-06   28.1  10.7   1.4   1   0   0   1   1   1   1 PHD-finger
+RFX_DNA_binding      PF02257.10 PMI_001708-RA        -            1.1e-17   64.0   0.0   2.2e-17   62.9   0.0   1.5   1   0   0   1   1   1   1 RFX DNA-binding domain
+L_HGMIC_fpl          PF10242.4  PMI_001923-RA        -            0.00055   19.8   0.7      0.14   12.0   0.1   2.0   1   1   1   2   2   2   2 Lipoma HMGIC fusion partner-like protein
+GATA                 PF00320.22 PMI_002049-RA        -            1.2e-09   37.1   5.8   4.8e-09   35.2   5.9   1.9   2   0   0   2   2   2   1 GATA zinc finger
+zf-C2H2_2            PF12756.2  PMI_002059-RA        -             0.0097   15.8   0.1     0.014   15.3   0.1   1.2   1   0   0   1   1   1   1 C2H2 type zinc-finger (2 copies)
+CSD                  PF00313.17 PMI_002060-RA        -              1e-31  108.4   8.5     9e-14   50.8   0.3   7.2   5   2   2   7   7   7   4 'Cold-shock' DNA-binding domain
+MH2                  PF03166.9  PMI_002062-RA        -            9.6e-43  145.9   0.0   1.1e-42  145.7   0.0   1.0   1   0   0   1   1   1   1 MH2 domain
+Hormone_recep        PF00104.25 PMI_002134-RA        -            1.3e-23   83.0   0.1   1.7e-23   82.6   0.1   1.1   1   0   0   1   1   1   1 Ligand-binding domain of nuclear hormone receptor
+Homeobox             PF00046.24 PMI_002205-RA        -            1.2e-21   76.0   4.2   2.3e-21   75.0   4.2   1.5   1   0   0   1   1   1   1 Homeobox domain
+HLH                  PF00010.21 PMI_002227-RA        -            3.8e-07   29.6   1.1    0.0003   20.3   0.1   3.2   3   0   0   3   3   3   2 Helix-loop-helix DNA-binding domain
+E2F_TDP              PF02319.15 PMI_002278-RA        -            2.7e-12   45.9   0.2   4.5e-12   45.2   0.2   1.3   1   0   0   1   1   1   1 E2F/DP family winged-helix DNA-binding domain
+zf-C4                PF00105.13 PMI_002309-RA        -            2.7e-31  107.5  16.5   6.1e-31  106.3  16.5   1.6   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+PHD                  PF00628.24 PMI_002312-RA        -            0.00015   21.2   0.9   0.00066   19.2   0.2   2.0   2   0   0   2   2   2   1 PHD-finger
+PHD                  PF00628.24 PMI_002313-RA        -              0.023   14.2   0.9     0.041   13.4   0.9   1.4   1   0   0   1   1   1   0 PHD-finger
+zf-C4                PF00105.13 PMI_002316-RA        -            1.6e-30  105.0  19.0   2.8e-30  104.2  19.0   1.4   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+RFX_DNA_binding      PF02257.10 PMI_002346-RA        -              7e-29   99.8   0.0   2.4e-28   98.1   0.0   2.0   1   0   0   1   1   1   1 RFX DNA-binding domain
+HMG_box              PF00505.14 PMI_002486-RA        -            1.5e-32  111.5  69.7   8.5e-13   48.2   2.9   8.2   7   2   1   8   8   8   5 HMG (high mobility group) box
+zf-C2H2_4            PF13894.1  PMI_002503-RA        -            1.9e-07   30.8  14.1   0.00082   19.4   2.7   2.7   2   0   0   2   2   2   2 C2H2-type zinc finger
+PHD                  PF00628.24 PMI_002510-RA        -            2.7e-15   55.6  34.5   9.9e-09   34.6  13.3   2.8   3   0   0   3   3   3   2 PHD-finger
+Mga                  PF05043.8  PMI_002519-RA        -               0.78    9.9  11.2       4.2    7.5   6.0   3.0   2   0   0   2   2   2   0 Mga helix-turn-helix domain
+zf-C2H2              PF00096.21 PMI_002527-RA        -            3.1e-16   58.6  29.7   0.00024   21.2   0.7   5.2   5   0   0   5   5   5   4 Zinc finger, C2H2 type
+bZIP_Maf             PF03131.12 PMI_002528-RA        -              0.029   14.5   1.5     0.045   13.9   1.5   1.2   1   0   0   1   1   1   0 bZIP Maf transcription factor
+RHD                  PF00554.17 PMI_002533-RA        -            1.2e-13   51.0   0.0   1.8e-13   50.4   0.0   1.3   1   0   0   1   1   1   1 Rel homology domain (RHD)
+zf-C2H2              PF00096.21 PMI_002659-RA        -            6.3e-10   38.8   2.4   0.00089   19.4   0.4   2.5   2   0   0   2   2   2   2 Zinc finger, C2H2 type
+HMG_box              PF00505.14 PMI_002749-RA        -            2.6e-27   94.7   1.3   5.2e-27   93.8   1.3   1.5   1   0   0   1   1   1   1 HMG (high mobility group) box
+SGT1                 PF07093.6  PMI_002785-RA        -                1.5    7.0  38.9         2    6.5  38.9   1.3   1   0   0   1   1   1   0 SGT1 protein
+HALZ                 PF02183.13 PMI_002852-RA        -              1e-05   25.0  45.0      0.48   10.0   0.3   9.4   9   1   0  10  10  10   7 Homeobox associated leucine zipper
+bZIP_1               PF00170.16 PMI_002858-RA        -            1.2e-11   44.2  13.2   2.3e-11   43.3  10.5   2.3   1   1   1   2   2   2   2 bZIP transcription factor
+Homeobox             PF00046.24 PMI_002930-RA        -            1.1e-21   76.1   2.9   1.9e-21   75.2   2.9   1.5   1   0   0   1   1   1   1 Homeobox domain
+Homeobox             PF00046.24 PMI_002932-RA        -            1.8e-21   75.4   2.9   3.1e-21   74.6   2.9   1.4   1   0   0   1   1   1   1 Homeobox domain
+Homeobox             PF00046.24 PMI_002933-RA        -              6e-14   51.3   0.2   1.2e-13   50.3   0.2   1.4   1   0   0   1   1   1   1 Homeobox domain
+F-box-like           PF12937.2  PMI_002977-RA        -              3e-13   49.1   1.0   4.3e-13   48.6   1.0   1.3   1   0   0   1   1   1   1 F-box-like
+HLH                  PF00010.21 PMI_002980-RA        -            2.1e-07   30.4   0.3   2.1e-07   30.4   0.3   1.7   2   0   0   2   2   2   1 Helix-loop-helix DNA-binding domain
+Homeobox             PF00046.24 PMI_003043-RA        -            1.7e-22   78.6   7.4   1.7e-22   78.6   7.4   1.8   2   0   0   2   2   2   1 Homeobox domain
+F-box-like           PF12937.2  PMI_003108-RA        -              3e-06   26.7   0.1   5.5e-06   25.8   0.1   1.4   1   0   0   1   1   1   1 F-box-like
+PHD                  PF00628.24 PMI_003186-RA        -            9.3e-08   31.5   8.4   1.3e-07   31.0   8.4   1.2   1   0   0   1   1   1   1 PHD-finger
+Homeobox             PF00046.24 PMI_003195-RA        -            2.8e-21   74.8   3.7   5.1e-21   73.9   3.7   1.5   1   0   0   1   1   1   1 Homeobox domain
+T-box                PF00907.17 PMI_003232-RA        -            2.4e-07   30.3   0.0   3.4e-07   29.8   0.0   1.2   1   0   0   1   1   1   1 T-box
+T-box                PF00907.17 PMI_003233-RA        -            6.2e-69  231.0   0.1   9.9e-69  230.3   0.1   1.3   1   0   0   1   1   1   1 T-box
+zf-C2H2_4            PF13894.1  PMI_003278-RA        -            2.8e-12   45.9  12.1   0.00026   21.0   1.2   3.5   3   0   0   3   3   3   3 C2H2-type zinc finger
+zf-C2H2              PF00096.21 PMI_003278-RB        -            9.9e-13   47.6   8.6    0.0012   19.0   1.3   3.4   3   0   0   3   3   3   3 Zinc finger, C2H2 type
+HMG-CoA_red          PF00368.13 PMI_003336-RA        -             1e-145  484.9   0.3  5.3e-144  479.3   0.3   2.1   1   1   0   1   1   1   1 Hydroxymethylglutaryl-coenzyme A reductase
+bZIP_2               PF07716.10 PMI_003341-RA        -            5.1e-15   54.9  11.8   5.1e-15   54.9  11.8   3.6   3   0   0   3   3   3   1 Basic region leucine zipper
+PHD                  PF00628.24 PMI_003382-RA        -            4.6e-23   80.5  33.1   1.2e-11   43.9   9.3   3.3   3   0   0   3   3   3   2 PHD-finger
+HMG_box              PF00505.14 PMI_003396-RA        -            2.8e-16   59.4   1.6   2.8e-16   59.4   1.6   2.2   2   0   0   2   2   2   1 HMG (high mobility group) box
+bZIP_1               PF00170.16 PMI_003452-RA        -            1.4e-11   44.0  13.0   2.7e-11   43.1  10.4   2.3   1   1   1   2   2   2   2 bZIP transcription factor
+Fork_head            PF00250.13 PMI_003567-RA        -              3e-32  110.4   0.0   5.5e-32  109.5   0.0   1.4   1   0   0   1   1   1   1 Fork head domain
+HLH                  PF00010.21 PMI_003589-RA        -              6e-16   57.7   0.3     6e-16   57.7   0.3   3.0   3   1   0   3   3   3   1 Helix-loop-helix DNA-binding domain
+HMG_box              PF00505.14 PMI_003592-RA        -            1.4e-20   73.2   4.6   8.6e-19   67.4   0.9   2.1   1   1   1   2   2   2   2 HMG (high mobility group) box
+HMG_box              PF00505.14 PMI_003594-RA        -            5.1e-26   90.6   8.6   1.6e-21   76.2   1.0   3.1   2   1   0   2   2   2   2 HMG (high mobility group) box
+zf-C2H2              PF00096.21 PMI_003597-RA        -            2.3e-12   46.5  31.4   0.00021   21.4   5.7   5.7   5   0   0   5   5   5   5 Zinc finger, C2H2 type
+zf-C2H2              PF00096.21 PMI_003722-RA        -            7.1e-71  230.7 256.4   1.1e-05   25.4   2.1  34.2  35   0   0  35  35  35  23 Zinc finger, C2H2 type
+Homeobox             PF00046.24 PMI_003820-RA        -            5.3e-25   86.7   3.9   8.4e-25   86.0   3.9   1.3   1   0   0   1   1   1   1 Homeobox domain
+Homeobox             PF00046.24 PMI_003821-RA        -            6.1e-24   83.3   4.5   9.2e-24   82.7   4.5   1.3   1   0   0   1   1   1   1 Homeobox domain
+Homeobox             PF00046.24 PMI_003822-RA        -            8.4e-23   79.6   4.3   8.4e-23   79.6   4.3   1.8   2   0   0   2   2   2   1 Homeobox domain
+PHD                  PF00628.24 PMI_004030-RA        -              5e-07   29.1   4.5   9.3e-07   28.3   3.2   2.0   2   0   0   2   2   2   1 PHD-finger
+CSD                  PF00313.17 PMI_004042-RA        -            5.8e-14   51.5   0.2   1.1e-13   50.6   0.2   1.5   1   0   0   1   1   1   1 'Cold-shock' DNA-binding domain
+PHD                  PF00628.24 PMI_004134-RA        -            8.7e-23   79.6  22.7   1.9e-13   49.7   3.7   3.3   2   1   1   3   3   3   2 PHD-finger
+zf-C2H2_2            PF12756.2  PMI_004263-RA        -            2.9e-30  104.2  18.8   4.4e-24   84.4   3.5   3.2   2   1   1   3   3   3   3 C2H2 type zinc-finger (2 copies)
+Homeobox             PF00046.24 PMI_004302-RA        -            4.3e-10   38.9   0.0   1.9e-09   36.8   0.0   2.2   1   1   0   1   1   1   1 Homeobox domain
+zf-C2H2_2            PF12756.2  PMI_004356-RA        -            0.00029   20.8   0.1   0.00038   20.4   0.1   1.1   1   0   0   1   1   1   1 C2H2 type zinc-finger (2 copies)
+Homeobox             PF00046.24 PMI_004396-RA        -            7.9e-22   76.5   0.3   1.5e-21   75.6   0.3   1.4   1   0   0   1   1   1   1 Homeobox domain
+HLH                  PF00010.21 PMI_004421-RA        -            8.6e-11   41.2   0.1   1.7e-10   40.2   0.1   1.5   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+Homeobox             PF00046.24 PMI_004509-RA        -            8.8e-23   79.5   8.4   1.3e-22   79.0   8.4   1.3   1   0   0   1   1   1   1 Homeobox domain
+L_HGMIC_fpl          PF10242.4  PMI_004557-RA        -            1.5e-41  142.3  16.1   1.8e-41  142.0  16.1   1.1   1   0   0   1   1   1   1 Lipoma HMGIC fusion partner-like protein
+HALZ                 PF02183.13 PMI_004564-RA        -             0.0076   15.8  25.1      0.13   11.8   0.3   6.2   6   0   0   6   6   6   3 Homeobox associated leucine zipper
+zf-C2H2              PF00096.21 PMI_004664-RA        -            6.9e-36  120.5  94.3     9e-05   22.5   2.1  11.2  11   0   0  11  11  11  10 Zinc finger, C2H2 type
+zf-C4                PF00105.13 PMI_004667-RA        -            5.3e-31  106.5  14.7     1e-30  105.6  14.7   1.5   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+HLH                  PF00010.21 PMI_004714-RA        -            9.9e-15   53.8   4.9   1.4e-14   53.3   4.9   1.2   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+zf-C2H2              PF00096.21 PMI_004849-RA        -            3.5e-10   39.6  13.4   6.6e-05   23.0   2.2   2.6   2   0   0   2   2   2   2 Zinc finger, C2H2 type
+PHD                  PF00628.24 PMI_004865-RA        -              4e-19   67.9  13.1   1.7e-11   43.4   4.8   2.7   2   0   0   2   2   2   2 PHD-finger
+bZIP_2               PF07716.10 PMI_004938-RA        -            1.9e-18   65.9  11.9   4.5e-18   64.6  11.9   1.7   1   0   0   1   1   1   1 Basic region leucine zipper
+HLH                  PF00010.21 PMI_005026-RA        -             0.0047   16.5   2.0       1.8    8.2   0.1   3.1   1   1   2   3   3   3   1 Helix-loop-helix DNA-binding domain
+Hormone_recep        PF00104.25 PMI_005035-RA        -            1.7e-31  108.7   0.0   2.7e-31  108.1   0.0   1.2   1   0   0   1   1   1   1 Ligand-binding domain of nuclear hormone receptor
+Hormone_recep        PF00104.25 PMI_005039-RA        -            6.5e-30  103.6   0.0   9.8e-30  103.0   0.0   1.1   1   0   0   1   1   1   1 Ligand-binding domain of nuclear hormone receptor
+zf-C2H2              PF00096.21 PMI_005046-RA        -            1.1e-19   69.5  27.3   0.00017   21.6   2.3   5.6   5   0   0   5   5   5   4 Zinc finger, C2H2 type
+zf-C2H2              PF00096.21 PMI_005132-RA        -            1.6e-11   43.8  20.9    0.0015   18.7   0.3   5.5   6   0   0   6   6   6   3 Zinc finger, C2H2 type
+zf-C2H2_4            PF13894.1  PMI_005236-RA        -             0.0058   16.8   3.7     0.031   14.5   3.7   2.3   1   0   0   1   1   1   1 C2H2-type zinc finger
+Pou                  PF00157.12 PMI_005308-RA        -            7.6e-40  134.3   0.0   1.3e-39  133.5   0.0   1.4   1   0   0   1   1   1   1 Pou domain - N-terminal to homeobox domain
+PHD                  PF00628.24 PMI_005314-RA        -            9.6e-14   50.7  35.6   5.5e-09   35.4   8.9   4.3   3   1   1   4   4   4   4 PHD-finger
+SART-1               PF03343.8  PMI_005325-RA        -            1.4e-42  145.7  17.5   1.4e-42  145.7  17.5   2.4   2   1   0   2   2   2   1 SART-1 family
+zf-C2H2              PF00096.21 PMI_005601-RA        -            0.00078   19.6   0.1   0.00078   19.6   0.1   2.3   2   0   0   2   2   2   1 Zinc finger, C2H2 type
+zf-GRF               PF06839.7  PMI_005622-RA        -              2e-20   72.2  13.0   1.7e-16   59.7   6.6   3.1   4   0   0   4   4   4   2 GRF zinc finger
+HALZ                 PF02183.13 PMI_005638-RA        -             0.0047   16.4   1.7     0.011   15.3   0.4   2.2   3   0   0   3   3   3   1 Homeobox associated leucine zipper
+RFX_DNA_binding      PF02257.10 PMI_005663-RA        -            5.3e-20   71.3   0.4   1.9e-19   69.5   0.1   2.1   2   0   0   2   2   2   1 RFX DNA-binding domain
+HALZ                 PF02183.13 PMI_005705-RA        -              2e-06   27.2  45.7      0.48   10.0   0.3   9.5   9   1   1  10  10  10   6 Homeobox associated leucine zipper
+Not1                 PF04054.10 PMI_005764-RA        -           2.6e-127  424.6   3.4  7.3e-127  423.1   3.4   1.8   1   0   0   1   1   1   1 CCR4-Not complex component, Not1
+Homeobox             PF00046.24 PMI_005769-RA        -            7.6e-24   83.0   6.6   1.2e-23   82.3   6.6   1.4   1   0   0   1   1   1   1 Homeobox domain
+P53                  PF00870.13 PMI_005790-RA        -            3.3e-51  173.5   2.8   2.7e-40  137.9   0.1   2.2   1   1   1   2   2   2   2 P53 DNA-binding domain
+zf-C2H2_4            PF13894.1  PMI_005810-RA        -              0.057   13.7   6.7     0.057   13.7   6.7   2.8   3   0   0   3   3   3   0 C2H2-type zinc finger
+YL1                  PF05764.8  PMI_005930-RA        -            2.5e-24   86.0  23.1   2.5e-24   86.0  23.1   2.4   2   1   1   3   3   3   1 YL1 nuclear protein
+HLH                  PF00010.21 PMI_005989-RA        -              9e-18   63.6   0.1   2.3e-17   62.3   0.1   1.7   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+zf-C2H2              PF00096.21 PMI_006052-RA        -              0.019   15.2   1.0     0.055   13.8   1.0   1.9   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-C2H2_2            PF12756.2  PMI_006102-RA        -            0.00013   21.9   1.4   0.00053   19.9   1.4   2.0   1   0   0   1   1   1   1 C2H2 type zinc-finger (2 copies)
+YL1                  PF05764.8  PMI_006153-RA        -                1.4    8.3  32.3       5.1    6.4  32.3   1.8   1   1   0   1   1   1   0 YL1 nuclear protein
+zf-MIZ               PF02891.15 PMI_006283-RA        -            1.2e-07   31.0   0.1   1.2e-07   31.0   0.1   2.4   2   0   0   2   2   2   1 MIZ/SP-RING zinc finger
+HLH                  PF00010.21 PMI_006313-RA        -              3e-16   58.7   2.8     5e-16   58.0   2.8   1.4   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+Homeobox             PF00046.24 PMI_006361-RA        -            8.6e-23   79.6   4.6   1.6e-22   78.7   4.6   1.5   1   0   0   1   1   1   1 Homeobox domain
+zf-BED               PF02892.10 PMI_006382-RA        -                1.2    8.8  11.1         3    7.5   3.6   2.4   2   0   0   2   2   2   0 BED zinc finger
+E2F_TDP              PF02319.15 PMI_006416-RA        -            3.2e-39  132.2   0.6   1.5e-19   69.1   0.2   2.4   2   0   0   2   2   2   2 E2F/DP family winged-helix DNA-binding domain
+Hormone_recep        PF00104.25 PMI_006523-RA        -              4e-34  117.4   3.3   2.4e-29  101.8   0.7   2.3   2   0   0   2   2   2   2 Ligand-binding domain of nuclear hormone receptor
+F-box-like           PF12937.2  PMI_006554-RA        -            1.2e-08   34.3   1.4   2.7e-08   33.2   1.4   1.6   1   0   0   1   1   1   1 F-box-like
+zf-B_box             PF00643.19 PMI_006666-RA        -            1.1e-09   37.8  10.9   1.1e-09   37.8  10.9   3.2   3   0   0   3   3   3   1 B-box zinc finger
+zf-C4                PF00105.13 PMI_007065-RA        -            5.9e-25   87.1  12.8   1.3e-24   86.1  12.8   1.6   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+CP2                  PF04516.10 PMI_007108-RA        -            9.2e-38  129.4   0.4   1.4e-37  128.8   0.4   1.2   1   0   0   1   1   1   1 CP2 transcription factor
+zf-C2H2              PF00096.21 PMI_007110-RA        -              0.023   14.9   0.8     0.066   13.5   0.8   1.8   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+SRF-TF               PF00319.13 PMI_007136-RA        -            2.5e-33  112.9   2.6   1.2e-19   69.1   0.1   2.2   2   0   0   2   2   2   2 SRF-type transcription factor (DNA-binding and dimerisation domain)
+RFX_DNA_binding      PF02257.10 PMI_007140-RA        -            3.5e-13   49.5   0.2   6.7e-13   48.6   0.2   1.4   1   0   0   1   1   1   1 RFX DNA-binding domain
+zf-C4                PF00105.13 PMI_007166-RA        -            1.6e-32  111.4  16.7   2.9e-32  110.5  16.7   1.5   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+zf-C4                PF00105.13 PMI_007168-RA        -            1.8e-29  101.6  12.5   3.1e-29  100.8  12.5   1.4   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+Hormone_recep        PF00104.25 PMI_007169-RA        -            2.3e-07   30.0   0.4   2.5e-07   29.8   0.4   1.0   1   0   0   1   1   1   1 Ligand-binding domain of nuclear hormone receptor
+bZIP_1               PF00170.16 PMI_007222-RA        -            6.8e-20   70.6  14.1   9.4e-20   70.2  14.1   1.2   1   0   0   1   1   1   1 bZIP transcription factor
+PHD                  PF00628.24 PMI_007291-RA        -            2.1e-42  142.4 104.8   4.6e-10   38.9  10.3   8.2   6   3   2   8   8   8   7 PHD-finger
+F-box-like           PF12937.2  PMI_007294-RA        -            3.7e-13   48.8   2.3   3.7e-13   48.8   2.3   2.0   2   0   0   2   2   2   1 F-box-like
+Fork_head            PF00250.13 PMI_007379-RA        -            9.7e-45  150.4   0.0   1.6e-44  149.7   0.0   1.3   1   0   0   1   1   1   1 Fork head domain
+RFX_DNA_binding      PF02257.10 PMI_007390-RA        -            8.5e-25   86.7   0.1   8.5e-25   86.7   0.1   3.1   5   0   0   5   5   5   1 RFX DNA-binding domain
+zf-GRF               PF06839.7  PMI_007544-RA        -            1.5e-11   43.9   3.6   8.4e-11   41.5   3.6   2.4   1   1   0   1   1   1   1 GRF zinc finger
+PHD                  PF00628.24 PMI_007704-RA        -            2.7e-08   33.2  10.7   5.4e-08   32.2   8.7   2.8   2   0   0   2   2   2   1 PHD-finger
+zf-C2H2              PF00096.21 PMI_007846-RA        -            3.1e-10   39.7  30.3   0.00085   19.5   0.2   7.4   7   0   0   7   7   7   4 Zinc finger, C2H2 type
+zf-GRF               PF06839.7  PMI_007890-RA        -            8.9e-16   57.4  18.1   1.9e-11   43.5   7.1   2.2   2   0   0   2   2   2   2 GRF zinc finger
+Fork_head            PF00250.13 PMI_007907-RA        -            1.4e-15   56.9   0.0   2.8e-15   56.0   0.0   1.5   1   0   0   1   1   1   1 Fork head domain
+Homeobox             PF00046.24 PMI_007909-RA        -            1.4e-07   30.9   0.2     2e-07   30.3   0.2   1.2   1   0   0   1   1   1   1 Homeobox domain
+bZIP_1               PF00170.16 PMI_007916-RA        -            4.2e-13   48.9  16.5   5.1e-13   48.6  15.2   1.8   1   1   1   2   2   2   1 bZIP transcription factor
+PHD                  PF00628.24 PMI_007919-RA        -              3e-10   39.5  10.7   7.9e-09   34.9  10.7   2.5   1   1   0   1   1   1   1 PHD-finger
+zf-C2H2              PF00096.21 PMI_008073-RA        -            2.2e-26   90.6  31.0     3e-06   27.2   0.2   5.6   5   0   0   5   5   5   5 Zinc finger, C2H2 type
+Hormone_recep        PF00104.25 PMI_008097-RA        -            3.5e-14   52.2   5.5   2.5e-13   49.5   5.5   1.9   1   1   0   1   1   1   1 Ligand-binding domain of nuclear hormone receptor
+zf-C2H2              PF00096.21 PMI_008154-RA        -            3.3e-06   27.1  10.3     0.051   13.9   0.8   3.6   3   0   0   3   3   3   3 Zinc finger, C2H2 type
+HLH                  PF00010.21 PMI_008341-RA        -            3.9e-14   51.9   2.5   7.1e-14   51.1   2.5   1.5   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+zf-C2H2              PF00096.21 PMI_008344-RA        -            0.00021   21.4   8.1     0.022   15.0   0.1   3.9   3   0   0   3   3   3   1 Zinc finger, C2H2 type
+PHD                  PF00628.24 PMI_008441-RA        -            4.1e-06   26.2  17.1   9.8e-06   25.0  17.1   1.6   1   0   0   1   1   1   1 PHD-finger
+TF_AP-2              PF03299.9  PMI_008568-RA        -            4.8e-31  107.8   0.0   2.5e-21   76.0   0.0   2.0   1   1   1   2   2   2   2 Transcription factor AP-2
+T-box                PF00907.17 PMI_008588-RA        -            4.1e-54  182.7   0.3   5.6e-54  182.2   0.3   1.1   1   0   0   1   1   1   1 T-box
+T-box                PF00907.17 PMI_008589-RA        -            7.4e-26   90.6   0.4   1.1e-25   90.0   0.4   1.3   1   0   0   1   1   1   1 T-box
+zf-C2H2              PF00096.21 PMI_008692-RA        -            9.4e-18   63.4  25.4   5.5e-06   26.3   0.9   5.7   6   0   0   6   6   5   4 Zinc finger, C2H2 type
+Fork_head            PF00250.13 PMI_008708-RA        -            2.6e-40  136.2   0.3   4.3e-40  135.5   0.3   1.3   1   0   0   1   1   1   1 Fork head domain
+Homeobox             PF00046.24 PMI_008718-RA        -            6.6e-30  102.4   4.0   2.8e-14   52.3   0.5   2.2   2   0   0   2   2   2   2 Homeobox domain
+PHD                  PF00628.24 PMI_008784-RA        -            1.4e-15   56.5  42.4   1.1e-10   40.9   8.0   3.4   3   1   0   3   3   3   2 PHD-finger
+zf-C2H2              PF00096.21 PMI_008901-RA        -            0.00081   19.5   0.3    0.0025   18.0   0.3   1.9   1   0   0   1   1   1   1 Zinc finger, C2H2 type
+T-box                PF00907.17 PMI_009072-RA        -            3.1e-68  228.7   0.0   1.5e-67  226.5   0.0   1.8   1   1   0   1   1   1   1 T-box
+PHD                  PF00628.24 PMI_009083-RA        -            6.8e-10   38.3   3.9   1.2e-09   37.5   3.9   1.4   1   0   0   1   1   1   1 PHD-finger
+F-box-like           PF12937.2  PMI_009150-RA        -            2.9e-09   36.4   1.7   2.9e-09   36.4   1.7   2.3   2   0   0   2   2   2   1 F-box-like
+PHD                  PF00628.24 PMI_009186-RA        -            3.3e-13   48.9  29.4   5.3e-09   35.5   8.9   3.4   2   1   1   3   3   3   3 PHD-finger
+HLH                  PF00010.21 PMI_009206-RA        -            5.1e-16   58.0   1.1   2.1e-15   56.0   1.1   2.2   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+HMG_box              PF00505.14 PMI_009324-RA        -            1.3e-18   66.8   0.6   3.8e-18   65.3   0.1   2.0   2   0   0   2   2   2   1 HMG (high mobility group) box
+zf-C2H2              PF00096.21 PMI_009336-RA        -            1.4e-14   53.4  27.0   3.8e-05   23.7   1.3   5.4   5   0   0   5   5   5   3 Zinc finger, C2H2 type
+F-box-like           PF12937.2  PMI_009372-RA        -            1.6e-07   30.8   1.4   3.1e-07   29.8   1.4   1.5   1   0   0   1   1   1   1 F-box-like
+HLH                  PF00010.21 PMI_009520-RA        -              2e-12   46.5   1.4   1.1e-09   37.7   1.4   2.5   1   1   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+T-box                PF00907.17 PMI_009580-RA        -            7.8e-64  214.4   0.6   1.2e-62  210.5   0.6   2.0   1   1   0   1   1   1   1 T-box
+F-box                PF00646.28 PMI_009598-RA        -            2.8e-07   29.9   0.0   5.3e-07   29.0   0.0   1.4   1   0   0   1   1   1   1 F-box domain
+BESS                 PF02944.15 PMI_009615-RA        -            5.6e-09   35.2   0.3     1e-08   34.4   0.3   1.4   1   0   0   1   1   1   1 BESS motif
+zf-C2H2              PF00096.21 PMI_009644-RA        -            3.3e-20   71.1  24.3   1.5e-07   31.2   0.1   4.5   4   0   0   4   4   4   4 Zinc finger, C2H2 type
+HLH                  PF00010.21 PMI_009693-RA        -            6.3e-16   57.7   1.1   2.4e-15   55.8   1.1   2.1   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+Homeobox             PF00046.24 PMI_009738-RA        -            2.4e-10   39.7   0.0   1.6e-09   37.1   0.0   2.5   1   1   1   2   2   2   1 Homeobox domain
+Homeobox             PF00046.24 PMI_009750-RA        -              7e-21   73.5   5.8   1.3e-20   72.6   5.2   1.8   2   0   0   2   2   2   1 Homeobox domain
+Homeobox             PF00046.24 PMI_009751-RA        -            1.1e-20   72.9   2.1   2.3e-20   71.8   2.1   1.6   1   0   0   1   1   1   1 Homeobox domain
+MH2                  PF03166.9  PMI_009890-RA        -            8.7e-45  152.6   0.0     2e-26   92.8   0.1   2.1   1   1   1   2   2   2   2 MH2 domain
+MH2                  PF03166.9  PMI_009890-RB        -            3.2e-68  229.0   0.0   3.9e-68  228.7   0.0   1.1   1   0   0   1   1   1   1 MH2 domain
+MH2                  PF03166.9  PMI_009891-RA        -            2.7e-74  248.7   0.0   3.3e-74  248.5   0.0   1.1   1   0   0   1   1   1   1 MH2 domain
+zf-C2H2_4            PF13894.1  PMI_009922-RA        -             0.0036   17.4   1.0    0.0036   17.4   1.0   3.0   3   0   0   3   3   3   1 C2H2-type zinc finger
+zf-C2H2              PF00096.21 PMI_009923-RA        -            7.4e-13   48.0  53.5    0.0022   18.2   3.3   6.4   6   0   0   6   6   6   5 Zinc finger, C2H2 type
+FBA                  PF04300.8  PMI_009951-RA        -            2.7e-14   53.4   0.1   5.3e-12   45.9   0.0   2.2   1   1   1   2   2   2   2 F-box associated region
+zf-C2H2              PF00096.21 PMI_010011-RA        -            0.00069   19.7   0.6     0.016   15.5   0.0   3.1   3   0   0   3   3   3   1 Zinc finger, C2H2 type
+PHD                  PF00628.24 PMI_010092-RA        -            2.9e-05   23.5   8.9   6.5e-05   22.4   8.1   2.1   1   1   1   2   2   2   1 PHD-finger
+Homeobox_KN          PF05920.6  PMI_010141-RA        -            7.5e-14   51.0   0.9   1.4e-13   50.1   0.9   1.5   1   0   0   1   1   1   1 Homeobox KN domain
+bZIP_1               PF00170.16 PMI_010181-RA        -            0.00086   19.0   3.7   0.00086   19.0   3.7   3.4   2   1   1   3   3   3   1 bZIP transcription factor
+STAT_bind            PF02864.10 PMI_010201-RA        -            2.4e-70  236.9   1.3   1.4e-43  149.2   0.0   2.6   1   1   2   3   3   3   2 STAT protein, DNA binding domain
+F-box-like           PF12937.2  PMI_010255-RA        -              3e-12   45.9   1.6   5.7e-12   45.0   1.6   1.4   1   0   0   1   1   1   1 F-box-like
+zf-C2H2_2            PF12756.2  PMI_010260-RA        -             0.0032   17.4   0.2     0.005   16.8   0.2   1.2   1   0   0   1   1   1   1 C2H2 type zinc-finger (2 copies)
+CSD                  PF00313.17 PMI_010262-RA        -            1.6e-36  123.7  17.9   9.1e-14   50.8   0.3   7.5   6   1   1   7   7   7   6 'Cold-shock' DNA-binding domain
+Homeobox             PF00046.24 PMI_010266-RA        -              6e-22   76.9   0.7   8.6e-22   76.4   0.7   1.2   1   0   0   1   1   1   1 Homeobox domain
+Homeobox             PF00046.24 PMI_010385-RA        -            7.6e-21   73.3   5.6   1.4e-20   72.5   5.6   1.4   1   0   0   1   1   1   1 Homeobox domain
+PHD                  PF00628.24 PMI_010406-RA        -            2.1e-10   40.0   2.8   4.6e-10   38.9   2.8   1.6   1   0   0   1   1   1   1 PHD-finger
+HLH                  PF00010.21 PMI_010415-RA        -            8.5e-16   57.2   0.2   1.7e-15   56.3   0.2   1.5   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+SART-1               PF03343.8  PMI_010436-RA        -            1.6e-84  284.2  35.5   3.3e-84  283.2  27.0   2.4   2   1   0   2   2   2   2 SART-1 family
+zf-BED               PF02892.10 PMI_010481-RA        -               0.11   12.1   8.1      0.33   10.6   8.1   1.8   1   0   0   1   1   1   0 BED zinc finger
+Myc_N                PF01056.13 PMI_010629-RA        -             0.0065   15.5   0.7    0.0067   15.5   0.7   1.1   1   0   0   1   1   1   1 Myc amino-terminal region
+HMG-CoA_red          PF00368.13 PMI_010747-RA        -           3.1e-154  513.0   0.1  4.2e-154  512.6   0.1   1.1   1   0   0   1   1   1   1 Hydroxymethylglutaryl-coenzyme A reductase
+Fork_head            PF00250.13 PMI_010961-RA        -            2.4e-31  107.4   0.1   4.9e-31  106.5   0.1   1.5   1   0   0   1   1   1   1 Fork head domain
+GATA                 PF00320.22 PMI_011001-RA        -            0.00017   20.7   0.7   0.00036   19.7   0.7   1.6   1   0   0   1   1   1   1 GATA zinc finger
+HALZ                 PF02183.13 PMI_011127-RA        -            6.2e-06   25.7   9.3    0.0083   15.7   3.7   2.4   2   0   0   2   2   2   2 Homeobox associated leucine zipper
+HALZ                 PF02183.13 PMI_011129-RA        -            0.00094   18.7   3.6   0.00094   18.7   3.6   3.2   3   1   0   4   4   4   1 Homeobox associated leucine zipper
+SART-1               PF03343.8  PMI_011130-RA        -            2.5e-62  211.0  19.7   3.3e-62  210.5  19.7   1.2   1   0   0   1   1   1   1 SART-1 family
+zf-C2H2              PF00096.21 PMI_011137-RA        -            1.7e-17   62.6  16.8   1.3e-06   28.3   0.9   4.4   4   0   0   4   4   4   3 Zinc finger, C2H2 type
+CSD                  PF00313.17 PMI_011143-RA        -            7.7e-07   28.6   0.0   1.1e-06   28.1   0.0   1.2   1   0   0   1   1   1   1 'Cold-shock' DNA-binding domain
+Homeobox_KN          PF05920.6  PMI_011167-RA        -            2.4e-18   65.4   1.1   5.6e-18   64.2   1.1   1.7   1   0   0   1   1   1   1 Homeobox KN domain
+GATA                 PF00320.22 PMI_011185-RA        -            9.9e-33  111.0  16.5   1.8e-16   59.0   5.9   2.5   2   0   0   2   2   2   2 GATA zinc finger
+Homeobox             PF00046.24 PMI_011207-RA        -            2.2e-23   81.5   8.7   2.2e-23   81.5   8.7   1.5   2   0   0   2   2   2   1 Homeobox domain
+PHD                  PF00628.24 PMI_011208-RA        -            2.8e-37  126.0 123.5   2.1e-08   33.6   7.9   8.6   8   2   1   9   9   9   7 PHD-finger
+PHD_2                PF13831.1  PMI_011209-RA        -            2.9e-06   26.3   2.3   7.5e-06   25.0   2.3   1.8   1   0   0   1   1   1   1 PHD-finger
+zf-C2H2_3            PF13878.1  PMI_011343-RA        -            3.3e-17   61.6   1.2   6.8e-17   60.6   1.2   1.6   1   0   0   1   1   1   1 zinc-finger of acetyl-transferase ESCO
+CUT                  PF02376.10 PMI_011433-RA        -            1.6e-79  261.6   0.3   1.2e-25   88.9   0.0   3.5   3   0   0   3   3   3   3 CUT domain
+zf-C2H2_2            PF12756.2  PMI_011501-RA        -                1.5    8.8   9.9     0.036   14.0   2.9   1.8   2   0   0   2   2   2   0 C2H2 type zinc-finger (2 copies)
+Churchill            PF06573.6  PMI_011603-RA        -            1.8e-46  156.6   8.6     2e-46  156.5   8.6   1.0   1   0   0   1   1   1   1 Churchill protein
+Homeobox             PF00046.24 PMI_011612-RA        -            1.4e-07   30.8   0.2   2.1e-07   30.3   0.2   1.2   1   0   0   1   1   1   1 Homeobox domain
+PHD                  PF00628.24 PMI_011617-RA        -            1.9e-15   56.1  41.9   1.4e-10   40.5   8.0   3.3   3   1   0   3   3   3   2 PHD-finger
+SART-1               PF03343.8  PMI_011766-RA        -              0.041   12.1   0.0     0.043   12.0   0.0   1.0   1   0   0   1   1   1   0 SART-1 family
+PHD                  PF00628.24 PMI_011771-RA        -            1.1e-10   40.9   8.4   1.9e-10   40.1   8.4   1.4   1   0   0   1   1   1   1 PHD-finger
+Hormone_recep        PF00104.25 PMI_011773-RA        -            5.3e-26   90.8   0.9   9.8e-26   90.0   0.9   1.4   1   0   0   1   1   1   1 Ligand-binding domain of nuclear hormone receptor
+F-box-like           PF12937.2  PMI_011827-RA        -              2e-11   43.2   1.8     2e-11   43.2   1.8   2.1   3   0   0   3   3   3   1 F-box-like
+Fez1                 PF06818.10 PMI_011886-RA        -                1.1    9.1  49.6      0.73    9.7  23.0   2.9   3   0   0   3   3   3   0 Fez1
+HLH                  PF00010.21 PMI_011923-RA        -               0.01   15.4   0.0     0.019   14.5   0.0   1.4   1   0   0   1   1   1   0 Helix-loop-helix DNA-binding domain
+PHD                  PF00628.24 PMI_012054-RA        -            7.3e-08   31.8  11.7   1.9e-07   30.5  11.7   1.8   1   0   0   1   1   1   1 PHD-finger
+HLH                  PF00010.21 PMI_012057-RA        -            6.4e-08   32.0   0.8   7.8e-08   31.8   0.8   1.1   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+zf-B_box             PF00643.19 PMI_012097-RA        -             0.0028   17.3   8.6    0.0038   16.9   8.6   1.2   1   0   0   1   1   1   1 B-box zinc finger
+Homeobox             PF00046.24 PMI_012108-RA        -              6e-21   73.7   2.7   8.5e-21   73.2   2.7   1.2   1   0   0   1   1   1   1 Homeobox domain
+PAX                  PF00292.13 PMI_012131-RA        -            2.6e-65  217.6   1.9   3.1e-65  217.4   0.5   1.9   2   0   0   2   2   2   1 'Paired box' domain
+Fork_head            PF00250.13 PMI_012134-RA        -            1.7e-40  136.8   0.2   2.8e-40  136.1   0.2   1.3   1   0   0   1   1   1   1 Fork head domain
+Mga                  PF05043.8  PMI_012144-RA        -               0.06   13.5   0.3     0.062   13.4   0.3   1.0   1   0   0   1   1   1   0 Mga helix-turn-helix domain
+PHD                  PF00628.24 PMI_012184-RA        -            3.2e-12   45.8   8.4   7.9e-12   44.5   8.4   1.7   1   0   0   1   1   1   1 PHD-finger
+bZIP_2               PF07716.10 PMI_012202-RA        -            1.2e-15   56.9  16.1   1.2e-15   56.9  16.1   2.0   2   0   0   2   2   2   1 Basic region leucine zipper
+SRF-TF               PF00319.13 PMI_012214-RA        -               0.13   11.4   0.1      0.56    9.3   0.1   2.0   2   0   0   2   2   2   0 SRF-type transcription factor (DNA-binding and dimerisation domain)
+zf-C2H2              PF00096.21 PMI_012268-RA        -            2.5e-07   30.6  15.7    0.0032   17.6   1.1   3.4   3   0   0   3   3   3   3 Zinc finger, C2H2 type
+zf-C2H2              PF00096.21 PMI_012269-RA        -            1.9e-19   68.7  18.4   1.4e-05   25.1   2.1   4.4   4   0   0   4   4   4   4 Zinc finger, C2H2 type
+Homeobox             PF00046.24 PMI_012477-RA        -              7e-21   73.5   4.8   1.2e-20   72.7   4.8   1.4   1   0   0   1   1   1   1 Homeobox domain
+YL1                  PF05764.8  PMI_012756-RA        -            3.4e-30  105.3  20.2   3.4e-30  105.3  20.2   2.5   2   1   1   3   3   3   2 YL1 nuclear protein
+zf-C2H2              PF00096.21 PMI_012848-RA        -            5.7e-22   76.7  42.8     5e-06   26.5   2.7   6.6   6   0   0   6   6   6   6 Zinc finger, C2H2 type
+HMG_box              PF00505.14 PMI_012871-RA        -            7.3e-12   45.2   0.7   1.3e-09   38.0   0.0   2.9   2   0   0   2   2   2   1 HMG (high mobility group) box
+PHD                  PF00628.24 PMI_012935-RA        -            2.6e-08   33.3   6.1   5.5e-08   32.2   6.1   1.6   1   0   0   1   1   1   1 PHD-finger
+Fork_head            PF00250.13 PMI_012960-RA        -            1.5e-29  101.7   0.1   2.5e-29  101.0   0.1   1.3   1   0   0   1   1   1   1 Fork head domain
+PHD                  PF00628.24 PMI_013003-RA        -            5.3e-08   32.3  35.2   8.5e-06   25.2   9.3   5.0   1   1   2   3   3   3   2 PHD-finger
+zf-C2H2              PF00096.21 PMI_013162-RA        -               0.04   14.2   3.9       0.3   11.4   0.3   2.9   2   0   0   2   2   2   0 Zinc finger, C2H2 type
+bZIP_1               PF00170.16 PMI_013237-RA        -            6.8e-05   22.6   8.3   0.00015   21.5   8.3   1.5   1   0   0   1   1   1   1 bZIP transcription factor
+HLH                  PF00010.21 PMI_013241-RA        -            5.1e-12   45.1   3.3   7.8e-12   44.6   3.3   1.3   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+Hormone_recep        PF00104.25 PMI_013275-RA        -            4.9e-38  130.1   0.2     7e-38  129.6   0.2   1.2   1   0   0   1   1   1   1 Ligand-binding domain of nuclear hormone receptor
+Hormone_recep        PF00104.25 PMI_013404-RA        -            7.1e-11   41.4   0.0   2.8e-07   29.7   0.0   2.1   1   1   1   2   2   2   2 Ligand-binding domain of nuclear hormone receptor
+Homeobox             PF00046.24 PMI_013507-RA        -            2.2e-22   78.3   3.2   3.7e-22   77.6   3.2   1.4   1   0   0   1   1   1   1 Homeobox domain
+Homeobox             PF00046.24 PMI_013508-RA        -            2.4e-33  113.3  13.8   2.8e-21   74.8   6.9   2.5   2   0   0   2   2   2   2 Homeobox domain
+Homeobox             PF00046.24 PMI_013509-RA        -            5.4e-24   83.4   4.3   8.6e-24   82.8   4.3   1.3   1   0   0   1   1   1   1 Homeobox domain
+SRF-TF               PF00319.13 PMI_013542-RA        -            1.2e-24   85.1   0.2   1.9e-24   84.5   0.2   1.3   1   0   0   1   1   1   1 SRF-type transcription factor (DNA-binding and dimerisation domain)
+zf-C2H2              PF00096.21 PMI_013577-RA        -            1.6e-21   75.3  35.1   2.6e-05   24.2   0.4   6.3   6   0   0   6   6   6   5 Zinc finger, C2H2 type
+PHD                  PF00628.24 PMI_013586-RA        -            1.5e-07   30.8   3.1   2.9e-07   29.9   3.1   1.5   1   0   0   1   1   1   1 PHD-finger
+zf-C4                PF00105.13 PMI_013597-RA        -            2.1e-27   95.0  14.4   4.4e-27   94.0  14.4   1.5   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+zf-B_box             PF00643.19 PMI_013711-RA        -             0.0016   18.1   8.5    0.0021   17.7   8.5   1.2   1   0   0   1   1   1   1 B-box zinc finger
+PAX                  PF00292.13 PMI_013731-RA        -            9.7e-73  241.6   0.7   2.6e-72  240.3   0.3   1.7   2   0   0   2   2   2   1 'Paired box' domain
+F-box-like           PF12937.2  PMI_013833-RA        -            9.1e-12   44.4   1.3   2.2e-11   43.1   1.3   1.7   1   0   0   1   1   1   1 F-box-like
+HMG_box              PF00505.14 PMI_013854-RA        -            1.5e-10   41.0   5.6   6.3e-10   39.0   5.6   2.0   1   1   0   1   1   1   1 HMG (high mobility group) box
+Ets                  PF00178.17 PMI_013977-RA        -            3.3e-40  135.9   0.6   5.5e-40  135.2   0.6   1.4   1   0   0   1   1   1   1 Ets-domain
+Hormone_recep        PF00104.25 PMI_014034-RA        -              2e-05   23.7   0.0     0.073   12.0   0.0   2.7   2   1   1   3   3   3   2 Ligand-binding domain of nuclear hormone receptor
+PHD                  PF00628.24 PMI_014048-RA        -            8.4e-09   34.8  10.4   8.4e-09   34.8  10.4   2.3   2   0   0   2   2   2   1 PHD-finger
+SAND                 PF01342.16 PMI_014089-RA        -            2.2e-26   91.2   0.0   3.5e-26   90.5   0.0   1.3   1   0   0   1   1   1   1 SAND domain
+PAX                  PF00292.13 PMI_014175-RA        -            4.6e-73  242.7   0.7     6e-73  242.3   0.7   1.1   1   0   0   1   1   1   1 'Paired box' domain
+zf-C2H2              PF00096.21 PMI_014246-RA        -            5.8e-18   64.1  54.5   0.00025   21.2   0.4   7.3   7   0   0   7   7   7   5 Zinc finger, C2H2 type
+DDT                  PF02791.12 PMI_014312-RA        -            3.1e-18   65.1   0.8     6e-18   64.2   0.8   1.5   1   0   0   1   1   1   1 DDT domain
+zf-C2H2_2            PF12756.2  PMI_014344-RA        -            0.00051   19.9   2.6    0.0012   18.8   1.4   2.4   2   0   0   2   2   2   1 C2H2 type zinc-finger (2 copies)
+HMG_box              PF00505.14 PMI_014424-RA        -            5.1e-11   42.5   4.8   1.6e-10   40.9   4.8   1.8   1   1   0   1   1   1   1 HMG (high mobility group) box
+Not1                 PF04054.10 PMI_014440-RA        -           5.5e-130  433.4   7.5    6e-127  423.4   1.9   2.9   2   1   1   3   3   3   2 CCR4-Not complex component, Not1
+Homeobox             PF00046.24 PMI_014666-RA        -            3.7e-20   71.1   2.4   3.7e-20   71.1   2.4   1.9   2   0   0   2   2   2   1 Homeobox domain
+Homeobox             PF00046.24 PMI_014667-RA        -            4.6e-21   74.1   6.9   8.1e-21   73.2   6.9   1.4   1   0   0   1   1   1   1 Homeobox domain
+zf-C4                PF00105.13 PMI_014739-RA        -            8.5e-25   86.6  15.6   1.9e-24   85.5  15.6   1.6   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+PHD                  PF00628.24 PMI_014933-RA        -              4e-11   42.3   6.4   8.4e-11   41.2   6.4   1.6   1   0   0   1   1   1   1 PHD-finger
+PHD                  PF00628.24 PMI_014938-RA        -            3.2e-10   39.4   8.4   6.4e-10   38.4   8.4   1.5   1   0   0   1   1   1   1 PHD-finger
+Homeobox_KN          PF05920.6  PMI_014953-RA        -            4.1e-15   55.0   0.2   1.1e-14   53.7   0.2   1.8   1   0   0   1   1   1   1 Homeobox KN domain
+zf-C4                PF00105.13 PMI_015036-RA        -            1.3e-27   95.6  10.2   2.2e-27   94.9  10.2   1.3   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+PHD                  PF00628.24 PMI_015047-RA        -            2.4e-29  100.6  36.2   6.3e-12   44.8   2.6   4.5   3   2   1   4   4   4   3 PHD-finger
+SAND                 PF01342.16 PMI_015146-RA        -            2.2e-26   91.2   0.0   3.5e-26   90.6   0.0   1.3   1   0   0   1   1   1   1 SAND domain
+Myc_N                PF01056.13 PMI_015171-RA        -              0.025   13.6   1.4      0.04   12.9   1.4   1.2   1   0   0   1   1   1   0 Myc amino-terminal region
+GATA                 PF00320.22 PMI_015292-RA        -            1.2e-32  110.7  18.8   2.2e-16   58.7   5.5   2.5   2   0   0   2   2   2   2 GATA zinc finger
+F-box-like           PF12937.2  PMI_015300-RA        -            2.6e-08   33.3   1.0   3.4e-08   32.9   0.2   1.7   2   0   0   2   2   2   1 F-box-like
+zf-C4                PF00105.13 PMI_015356-RA        -              3e-14   52.8  13.7     3e-14   52.8  13.7   2.0   1   1   1   2   2   2   1 Zinc finger, C4 type (two domains)
+zf-C2H2              PF00096.21 PMI_015365-RA        -            1.5e-15   56.5  30.7    0.0017   18.5   4.0   4.4   4   0   0   4   4   4   4 Zinc finger, C2H2 type
+HTH_psq              PF05225.11 PMI_015366-RA        -            2.5e-24   84.4   0.0   1.2e-11   43.8   0.0   3.5   3   0   0   3   3   3   2 helix-turn-helix, Psq domain
+PHD                  PF00628.24 PMI_015477-RA        -            2.8e-13   49.2   8.1   5.3e-13   48.3   8.1   1.5   1   0   0   1   1   1   1 PHD-finger
+Tub                  PF01167.13 PMI_015480-RA        -           8.1e-100  332.7   0.0   1.1e-99  332.3   0.0   1.1   1   0   0   1   1   1   1 Tub family
+HMG_box              PF00505.14 PMI_015559-RA        -            6.1e-21   74.3  12.1   7.4e-20   70.8   1.4   3.2   3   0   0   3   3   3   2 HMG (high mobility group) box
+Homeobox             PF00046.24 PMI_015792-RA        -            8.3e-22   76.4   2.6   1.4e-21   75.7   2.6   1.4   1   0   0   1   1   1   1 Homeobox domain
+zf-C2H2              PF00096.21 PMI_015826-RA        -            0.00016   21.7  56.2     0.028   14.7   6.0   7.3   7   0   0   7   7   7   4 Zinc finger, C2H2 type
+bZIP_1               PF00170.16 PMI_015900-RA        -            5.7e-09   35.6  21.3   1.3e-08   34.5  21.3   1.6   1   0   0   1   1   1   1 bZIP transcription factor
+bZIP_1               PF00170.16 PMI_015901-RA        -            4.1e-12   45.7  16.4   6.2e-12   45.1  16.4   1.3   1   0   0   1   1   1   1 bZIP transcription factor
+bZIP_1               PF00170.16 PMI_015902-RA        -            1.5e-09   37.5   7.5   3.3e-09   36.4   7.5   1.6   1   0   0   1   1   1   1 bZIP transcription factor
+Hormone_recep        PF00104.25 PMI_015968-RA        -            7.8e-32  109.9   0.0   9.8e-32  109.6   0.0   1.1   1   0   0   1   1   1   1 Ligand-binding domain of nuclear hormone receptor
+HALZ                 PF02183.13 PMI_015971-RA        -              0.015   14.8   0.6     0.015   14.8   0.6   3.1   3   0   0   3   3   3   0 Homeobox associated leucine zipper
+zf-TAZ               PF02135.11 PMI_015990-RA        -            2.7e-25   88.0  18.1   4.3e-25   87.4  18.1   1.3   1   0   0   1   1   1   1 TAZ zinc finger
+Fork_head            PF00250.13 PMI_016006-RA        -            4.5e-38  129.0   0.7   7.4e-38  128.3   0.7   1.3   1   0   0   1   1   1   1 Fork head domain
+RFX_DNA_binding      PF02257.10 PMI_016078-RA        -            3.3e-05   23.9   0.6   7.4e-05   22.8   0.1   1.9   2   0   0   2   2   2   1 RFX DNA-binding domain
+RFX_DNA_binding      PF02257.10 PMI_016096-RA        -              4e-29  100.6   0.1   2.1e-28   98.3   0.0   2.3   3   0   0   3   3   3   1 RFX DNA-binding domain
+HMG_box              PF00505.14 PMI_016355-RA        -            7.7e-11   42.0   0.4   7.7e-11   42.0   0.4   2.4   4   0   0   4   4   4   1 HMG (high mobility group) box
+T-box                PF00907.17 PMI_016410-RA        -            4.5e-82  273.8   0.0     6e-82  273.4   0.0   1.1   1   0   0   1   1   1   1 T-box
+T-box                PF00907.17 PMI_016481-RA        -              2e-37  128.3   0.1   2.4e-37  128.0   0.1   1.0   1   0   0   1   1   1   1 T-box
+T-box                PF00907.17 PMI_016482-RA        -            1.9e-05   24.0   0.1   3.9e-05   23.0   0.1   1.5   1   0   0   1   1   1   1 T-box
+HLH                  PF00010.21 PMI_016579-RA        -            7.7e-08   31.8   0.1   1.6e-07   30.8   0.1   1.6   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+HMG_box              PF00505.14 PMI_016585-RA        -            1.6e-25   89.0   9.7   4.9e-21   74.6   1.6   3.2   2   1   0   2   2   2   2 HMG (high mobility group) box
+zf-C2H2              PF00096.21 PMI_016619-RA        -            1.5e-15   56.5  21.5     5e-06   26.5   2.1   3.6   3   0   0   3   3   3   3 Zinc finger, C2H2 type
+zf-C2HC              PF01530.13 PMI_016643-RA        -              0.071   12.7   0.2      0.15   11.6   0.2   1.5   1   0   0   1   1   1   0 Zinc finger, C2HC type
+zf-C2H2_4            PF13894.1  PMI_016714-RA        -            2.8e-63  205.5 124.9    0.0001   22.3   0.3  19.9  19   1   0  19  19  19  19 C2H2-type zinc finger
+HTH_8                PF02954.14 PMI_016728-RA        -              0.028   13.8   0.1     0.047   13.1   0.1   1.3   1   0   0   1   1   1   0 Bacterial regulatory protein, Fis family
+Homeobox             PF00046.24 PMI_016744-RA        -            1.5e-20   72.4   3.7   2.7e-20   71.6   3.7   1.4   1   0   0   1   1   1   1 Homeobox domain
+Homeobox             PF00046.24 PMI_016774-RA        -            7.7e-23   79.7   3.1   1.5e-22   78.8   3.1   1.5   1   0   0   1   1   1   1 Homeobox domain
+PHD                  PF00628.24 PMI_016801-RA        -            4.5e-09   35.7   6.5   1.3e-08   34.2   6.5   1.8   1   0   0   1   1   1   1 PHD-finger
+CP2                  PF04516.10 PMI_016963-RA        -            1.1e-49  168.4   2.5   9.9e-49  165.3   2.5   2.0   1   1   0   1   1   1   1 CP2 transcription factor
+PHD                  PF00628.24 PMI_017023-RA        -               0.22   11.1   5.1      0.57    9.7   5.1   1.7   1   0   0   1   1   1   0 PHD-finger
+PHD                  PF00628.24 PMI_017045-RA        -            1.8e-12   46.5  12.0   2.6e-12   46.1  12.0   1.2   1   0   0   1   1   1   1 PHD-finger
+PHD                  PF00628.24 PMI_017046-RA        -            5.2e-07   29.1   5.2   1.2e-06   27.9   5.2   1.6   1   0   0   1   1   1   1 PHD-finger
+zf-B_box             PF00643.19 PMI_017090-RA        -            3.7e-13   49.0  29.9   3.8e-10   39.3   6.5   3.4   4   0   0   4   4   4   2 B-box zinc finger
+HTH_psq              PF05225.11 PMI_017160-RA        -            2.1e-05   23.8   0.0   4.6e-05   22.7   0.0   1.6   1   0   0   1   1   1   1 helix-turn-helix, Psq domain
+F-box-like           PF12937.2  PMI_017169-RA        -            9.5e-12   44.3   1.8   1.9e-11   43.3   1.8   1.5   1   0   0   1   1   1   1 F-box-like
+Homeobox             PF00046.24 PMI_017170-RA        -            2.5e-10   39.6   6.4   0.00015   21.2   0.7   2.8   2   0   0   2   2   2   2 Homeobox domain
+zf-C2H2              PF00096.21 PMI_017220-RA        -            2.3e-15   55.9  64.6     0.017   15.4   0.4  10.3  10   0   0  10  10  10   8 Zinc finger, C2H2 type
+zf-B_box             PF00643.19 PMI_017328-RA        -            0.00017   21.2   4.0    0.0003   20.5   4.0   1.3   1   0   0   1   1   1   1 B-box zinc finger
+PHD                  PF00628.24 PMI_017420-RA        -            6.2e-08   32.1   7.6     1e-07   31.3   7.6   1.4   1   0   0   1   1   1   1 PHD-finger
+zf-C2H2_4            PF13894.1  PMI_017482-RA        -            5.1e-05   23.2  16.0     0.028   14.6   1.6   3.5   3   0   0   3   3   3   3 C2H2-type zinc finger
+Homeobox             PF00046.24 PMI_017494-RA        -              1e-13   50.5   0.4   1.5e-13   49.9   0.4   1.2   1   0   0   1   1   1   1 Homeobox domain
+Tub                  PF01167.13 PMI_017578-RA        -            3.5e-27   94.8   0.2   3.6e-27   94.8   0.2   1.0   1   0   0   1   1   1   1 Tub family
+zf-C2H2_2            PF12756.2  PMI_017621-RA        -             0.0042   17.0   1.9    0.0042   17.0   1.9   2.3   2   0   0   2   2   2   1 C2H2 type zinc-finger (2 copies)
+Fork_head            PF00250.13 PMI_017648-RA        -            2.8e-22   78.4   0.4   6.1e-22   77.3   0.4   1.5   1   0   0   1   1   1   1 Fork head domain
+zf-C2H2_6            PF13912.1  PMI_017717-RA        -            1.6e-05   24.4   0.6   2.9e-05   23.6   0.6   1.4   1   0   0   1   1   1   1 C2H2-type zinc finger
+Ets                  PF00178.17 PMI_017799-RA        -            2.2e-35  120.4   2.2   4.2e-35  119.6   2.2   1.5   1   0   0   1   1   1   1 Ets-domain
+Hormone_recep        PF00104.25 PMI_017801-RA        -            2.6e-15   55.9   0.0   2.4e-09   36.5   0.2   3.8   2   2   1   3   3   3   3 Ligand-binding domain of nuclear hormone receptor
+MH2                  PF03166.9  PMI_017863-RA        -              1e-12   48.1   0.2   2.5e-12   46.8   0.2   1.6   1   0   0   1   1   1   1 MH2 domain
+PAX                  PF00292.13 PMI_017887-RA        -            1.5e-32  111.8   0.2   2.5e-32  111.1   0.2   1.3   1   0   0   1   1   1   1 'Paired box' domain
+zf-C2H2_4            PF13894.1  PMI_017933-RA        -            8.5e-07   28.8   3.7    0.0029   17.7   1.1   2.9   2   0   0   2   2   2   2 C2H2-type zinc finger
+zf-C4                PF00105.13 PMI_018027-RA        -            1.3e-31  108.4  12.2   2.3e-31  107.7  12.2   1.4   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+zf-C2H2_2            PF12756.2  PMI_018030-RA        -            3.4e-28   97.5   2.2   5.3e-28   96.9   2.2   1.2   1   0   0   1   1   1   1 C2H2 type zinc-finger (2 copies)
+GCN5L1               PF06320.8  PMI_018167-RA        -            2.2e-45  153.2  10.0   2.4e-45  153.1  10.0   1.0   1   0   0   1   1   1   1 GCN5-like protein 1 (GCN5L1)
+zf-MIZ               PF02891.15 PMI_018223-RA        -            1.4e-20   72.4   5.3   1.9e-20   71.9   5.3   1.2   1   0   0   1   1   1   1 MIZ/SP-RING zinc finger
+HTH_psq              PF05225.11 PMI_018266-RA        -            7.8e-09   34.8   0.0   1.7e-08   33.7   0.0   1.6   1   0   0   1   1   1   1 helix-turn-helix, Psq domain
+L_HGMIC_fpl          PF10242.4  PMI_018351-RA        -             0.0018   18.1   1.2    0.0018   18.1   1.2   1.5   2   0   0   2   2   2   1 Lipoma HMGIC fusion partner-like protein
+zf-B_box             PF00643.19 PMI_018394-RA        -            1.2e-11   44.1  24.2   6.6e-09   35.4  12.3   4.9   5   1   0   5   5   5   2 B-box zinc finger
+zf-C2H2              PF00096.21 PMI_018533-RA        -              0.002   18.3   4.0     0.002   18.3   4.0   3.0   2   0   0   2   2   2   1 Zinc finger, C2H2 type
+zf-B_box             PF00643.19 PMI_018598-RA        -            7.7e-10   38.3  22.3   3.3e-08   33.1   4.1   4.5   4   1   0   4   4   4   2 B-box zinc finger
+HLH                  PF00010.21 PMI_018635-RA        -            1.2e-05   24.7   0.2   2.2e-05   23.9   0.2   1.5   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+HLH                  PF00010.21 PMI_018751-RA        -            6.3e-18   64.1   0.8   1.1e-17   63.3   0.8   1.4   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+RFX_DNA_binding      PF02257.10 PMI_018781-RA        -            9.8e-28   96.1   0.0   2.9e-27   94.6   0.0   1.8   1   0   0   1   1   1   1 RFX DNA-binding domain
+PHD                  PF00628.24 PMI_018800-RA        -             0.0052   16.3   4.4     0.012   15.2   4.4   1.6   1   0   0   1   1   1   1 PHD-finger
+HLH                  PF00010.21 PMI_018821-RA        -            5.1e-19   67.6   1.1   5.5e-19   67.5   0.2   1.6   2   0   0   2   2   2   1 Helix-loop-helix DNA-binding domain
+F-box-like           PF12937.2  PMI_018832-RA        -            1.3e-15   56.6   0.1   3.5e-15   55.3   0.1   1.7   1   0   0   1   1   1   1 F-box-like
+HMG_box              PF00505.14 PMI_018834-RA        -            5.9e-14   51.9   0.0   5.9e-14   51.9   0.0   3.3   5   0   0   5   5   5   1 HMG (high mobility group) box
+RHD                  PF00554.17 PMI_019010-RA        -            3.2e-20   72.4   4.2   5.3e-18   65.2   0.3   2.2   1   1   1   2   2   2   2 Rel homology domain (RHD)
+PHD                  PF00628.24 PMI_019029-RA        -              3e-17   61.9  30.7   5.2e-09   35.5   0.6   3.8   4   0   0   4   4   4   3 PHD-finger
+zf-C4                PF00105.13 PMI_019043-RA        -            7.4e-29   99.6  12.2   7.4e-29   99.6  12.2   1.9   2   0   0   2   2   2   1 Zinc finger, C4 type (two domains)
+zf-MIZ               PF02891.15 PMI_019126-RA        -            9.8e-14   50.4   0.8   1.9e-13   49.5   0.8   1.4   1   0   0   1   1   1   1 MIZ/SP-RING zinc finger
+Fork_head            PF00250.13 PMI_019236-RA        -            7.1e-20   70.7   0.0   1.5e-19   69.7   0.0   1.4   1   0   0   1   1   1   1 Fork head domain
+CBFB_NFYA            PF02045.10 PMI_019237-RA        -            7.9e-13   48.6   0.2   7.9e-13   48.6   0.2   1.7   2   0   0   2   2   2   1 CCAAT-binding transcription factor (CBF-B/NF-YA) subunit B
+Ets                  PF00178.17 PMI_019303-RA        -            2.9e-37  126.5   3.6   4.1e-37  126.0   3.6   1.2   1   0   0   1   1   1   1 Ets-domain
+Homeobox_KN          PF05920.6  PMI_019338-RA        -            1.1e-14   53.7   0.2   1.1e-14   53.7   0.2   2.7   3   0   0   3   3   3   1 Homeobox KN domain
+bZIP_2               PF07716.10 PMI_019393-RA        -            1.4e-12   47.0  12.1   2.5e-12   46.2  12.1   1.4   1   0   0   1   1   1   1 Basic region leucine zipper
+HMG_box              PF00505.14 PMI_019427-RA        -            2.9e-18   65.7   0.6   9.9e-18   64.0   0.1   2.2   2   0   0   2   2   2   1 HMG (high mobility group) box
+HLH                  PF00010.21 PMI_019443-RA        -            4.5e-12   45.3   1.0   1.2e-11   44.0   1.0   1.8   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+PHD                  PF00628.24 PMI_019557-RA        -            7.8e-10   38.1   7.2   1.5e-09   37.3   7.2   1.5   1   0   0   1   1   1   1 PHD-finger
+Homeobox             PF00046.24 PMI_019589-RA        -            1.7e-14   53.0   1.4   3.6e-14   52.0   1.4   1.5   1   0   0   1   1   1   1 Homeobox domain
+Homeobox             PF00046.24 PMI_019645-RA        -            1.1e-22   79.3   2.1   2.4e-22   78.2   2.1   1.6   1   0   0   1   1   1   1 Homeobox domain
+PHD                  PF00628.24 PMI_019680-RA        -              7e-08   31.9   6.1   1.6e-07   30.7   6.1   1.7   1   0   0   1   1   1   1 PHD-finger
+Homeobox             PF00046.24 PMI_019760-RA        -            5.8e-15   54.5   0.9   7.6e-15   54.1   0.9   1.1   1   0   0   1   1   1   1 Homeobox domain
+GATA                 PF00320.22 PMI_019765-RA        -            3.7e-05   22.8   4.6   0.00011   21.3   4.6   1.9   1   0   0   1   1   1   1 GATA zinc finger
+TEA                  PF01285.13 PMI_019773-RA        -            2.9e-25   89.2   0.4   1.4e-23   83.6   0.0   2.0   1   1   1   2   2   2   2 TEA/ATTS domain family
+TEA                  PF01285.13 PMI_019774-RA        -            3.1e-49  168.1   1.5   3.5e-49  168.0   1.5   1.0   1   0   0   1   1   1   1 TEA/ATTS domain family
+HLH                  PF00010.21 PMI_019810-RA        -            1.5e-17   62.9   1.0   2.9e-17   62.0   1.0   1.5   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+HALZ                 PF02183.13 PMI_019813-RA        -             0.0017   17.9   3.6    0.0017   17.9   3.6   3.3   3   1   1   4   4   4   1 Homeobox associated leucine zipper
+zf-C2H2              PF00096.21 PMI_019885-RA        -            5.5e-19   67.3  21.6   0.00037   20.6   2.7   5.5   5   0   0   5   5   5   5 Zinc finger, C2H2 type
+RHD                  PF00554.17 PMI_019969-RA        -            2.6e-34  118.2   0.0   4.6e-34  117.4   0.0   1.4   1   0   0   1   1   1   1 Rel homology domain (RHD)
+bZIP_1               PF00170.16 PMI_020090-RA        -             0.0019   18.0   5.2    0.0019   18.0   5.2   3.4   3   1   0   3   3   3   1 bZIP transcription factor
+zf-C2H2_4            PF13894.1  PMI_020143-RA        -              0.013   15.7   3.3     0.013   15.7   3.3   2.7   2   0   0   2   2   2   0 C2H2-type zinc finger
+Fork_head            PF00250.13 PMI_020273-RA        -            1.3e-27   95.5   0.0   1.4e-27   95.4   0.0   1.1   1   0   0   1   1   1   1 Fork head domain
+AF-4                 PF05110.8  PMI_020387-RA        -            2.7e-34  118.2  34.0   2.2e-33  115.2  34.0   1.9   1   1   0   1   1   1   1 AF-4 proto-oncoprotein
+bZIP_1               PF00170.16 PMI_020391-RA        -              0.012   15.3   2.9     0.021   14.6   1.5   2.1   1   1   1   2   2   2   0 bZIP transcription factor
+CBFB_NFYA            PF02045.10 PMI_020459-RA        -            2.7e-28   98.1   7.2   2.7e-28   98.1   7.2   1.7   2   0   0   2   2   2   1 CCAAT-binding transcription factor (CBF-B/NF-YA) subunit B
+HLH                  PF00010.21 PMI_020619-RA        -            1.3e-05   24.7   0.2   2.2e-05   23.9   0.2   1.4   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+PHD                  PF00628.24 PMI_020670-RA        -            4.5e-29   99.7  55.3     1e-13   50.6   6.2   3.9   4   0   0   4   4   4   3 PHD-finger
+AF-4                 PF05110.8  PMI_020677-RA        -            1.9e-21   75.7   0.0   2.1e-21   75.5   0.0   1.0   1   0   0   1   1   1   1 AF-4 proto-oncoprotein
+AF-4                 PF05110.8  PMI_020678-RA        -            2.1e-35  121.8  90.4   1.5e-34  119.0  90.4   2.2   1   1   0   1   1   1   1 AF-4 proto-oncoprotein
+Homeobox             PF00046.24 PMI_020722-RA        -            2.8e-23   81.1   5.3   3.5e-23   80.8   5.3   1.1   1   0   0   1   1   1   1 Homeobox domain
+Homeobox             PF00046.24 PMI_020723-RA        -            1.2e-21   75.9   8.7     2e-21   75.2   8.7   1.4   1   0   0   1   1   1   1 Homeobox domain
+Homeobox             PF00046.24 PMI_020724-RA        -            8.9e-22   76.3   9.2   1.2e-21   76.0   9.2   1.1   1   0   0   1   1   1   1 Homeobox domain
+Homeobox             PF00046.24 PMI_020726-RA        -            4.8e-24   83.6   7.8     7e-24   83.1   7.8   1.2   1   0   0   1   1   1   1 Homeobox domain
+zf-C2H2              PF00096.21 PMI_020729-RA        -            9.7e-05   22.4   9.0    0.0079   16.4   0.5   2.6   2   0   0   2   2   2   2 Zinc finger, C2H2 type
+zf-C2H2_2            PF12756.2  PMI_020778-RA        -            3.1e-39  133.0  12.2   6.8e-23   80.5   2.3   2.1   2   0   0   2   2   2   2 C2H2 type zinc-finger (2 copies)
+bZIP_2               PF07716.10 PMI_020804-RA        -              0.042   13.5   3.6     0.081   12.6   3.6   1.4   1   0   0   1   1   1   0 Basic region leucine zipper
+Hormone_recep        PF00104.25 PMI_020833-RA        -            9.4e-30  103.1   0.0   1.5e-29  102.5   0.0   1.2   1   0   0   1   1   1   1 Ligand-binding domain of nuclear hormone receptor
+zf-C2H2_4            PF13894.1  PMI_020888-RA        -            1.4e-10   40.6  24.3     0.028   14.6   0.6   4.8   4   0   0   4   4   4   4 C2H2-type zinc finger
+Pou                  PF00157.12 PMI_020940-RA        -            1.5e-30  104.5   0.2   3.2e-30  103.4   0.0   1.7   2   0   0   2   2   2   1 Pou domain - N-terminal to homeobox domain
+zf-C2H2_6            PF13912.1  PMI_021001-RA        -            2.3e-05   24.0   0.6   4.4e-05   23.1   0.6   1.5   1   0   0   1   1   1   1 C2H2-type zinc finger
+zf-C2H2_4            PF13894.1  PMI_021077-RA        -             0.0011   19.0   3.6    0.0011   19.0   3.6   3.2   4   0   0   4   4   4   1 C2H2-type zinc finger
+HLH                  PF00010.21 PMI_021234-RA        -            1.5e-09   37.2   0.3   2.9e-09   36.3   0.3   1.5   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+Homeobox_KN          PF05920.6  PMI_021407-RA        -            5.7e-15   54.6   0.1   1.1e-14   53.7   0.1   1.5   1   0   0   1   1   1   1 Homeobox KN domain
+Prox1                PF05044.7  PMI_021476-RA        -            7.4e-75  252.7  65.6   7.9e-60  202.9   2.9   5.9   2   1   3   5   5   5   5 Homeobox prospero-like protein (PROX1)
+STAT_bind            PF02864.10 PMI_021576-RA        -              1e-31  110.3   1.8   6.3e-30  104.4   1.8   2.6   1   1   0   1   1   1   1 STAT protein, DNA binding domain
+F-box-like           PF12937.2  PMI_021597-RA        -              3e-08   33.1   0.2   1.1e-07   31.3   0.1   2.0   2   0   0   2   2   2   1 F-box-like
+Hormone_recep        PF00104.25 PMI_021670-RA        -            1.6e-17   63.1   0.4   2.7e-17   62.4   0.4   1.3   1   0   0   1   1   1   1 Ligand-binding domain of nuclear hormone receptor
+zf-C2HC              PF01530.13 PMI_021688-RA        -            5.3e-73  240.2  72.4   5.1e-17   61.1   5.2   5.6   6   0   0   6   6   6   5 Zinc finger, C2HC type
+zf-C2H2_4            PF13894.1  PMI_021769-RA        -            1.2e-08   34.5  11.2   0.00072   19.6   2.9   2.9   2   0   0   2   2   2   2 C2H2-type zinc finger
+zf-C2H2              PF00096.21 PMI_021778-RA        -            8.2e-23   79.3  48.1   0.00012   22.1   0.6   6.8   6   0   0   6   6   6   5 Zinc finger, C2H2 type
+Fork_head            PF00250.13 PMI_021780-RA        -            3.4e-25   87.7   0.0   6.7e-25   86.8   0.0   1.4   1   0   0   1   1   1   1 Fork head domain
+DM                   PF00751.13 PMI_021885-RA        -            8.2e-24   82.7  10.3   1.7e-23   81.7  10.3   1.5   1   0   0   1   1   1   1 DM DNA binding domain
+DM                   PF00751.13 PMI_021887-RA        -            7.9e-23   79.6  12.7   1.2e-22   79.0  12.7   1.3   1   0   0   1   1   1   1 DM DNA binding domain
+Hormone_recep        PF00104.25 PMI_021894-RA        -            5.3e-26   90.8   0.9   9.8e-26   90.0   0.9   1.4   1   0   0   1   1   1   1 Ligand-binding domain of nuclear hormone receptor
+zf-C2H2_4            PF13894.1  PMI_021935-RA        -            1.9e-12   46.5  12.1   0.00023   21.2   1.2   3.5   3   0   0   3   3   3   3 C2H2-type zinc finger
+zf-C2H2              PF00096.21 PMI_021936-RA        -            4.2e-14   51.9   8.6   0.00038   20.6   1.3   3.3   3   0   0   3   3   3   3 Zinc finger, C2H2 type
+HLH                  PF00010.21 PMI_022035-RA        -            1.9e-11   43.4   0.0   3.2e-11   42.6   0.0   1.4   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+SRF-TF               PF00319.13 PMI_022062-RA        -            1.6e-24   84.7   0.2   2.6e-24   84.0   0.2   1.3   1   0   0   1   1   1   1 SRF-type transcription factor (DNA-binding and dimerisation domain)
+NDT80_PhoG           PF05224.7  PMI_022091-RA        -            8.8e-12   45.2   0.2   3.2e-10   40.2   0.2   2.1   1   1   0   1   1   1   1 NDT80 / PhoG like DNA-binding  family
+SAND                 PF01342.16 PMI_022113-RA        -            1.8e-23   81.9   0.2   5.4e-23   80.4   0.1   1.8   2   0   0   2   2   2   1 SAND domain
+zf-C2H2_4            PF13894.1  PMI_022168-RA        -             0.0018   18.4   2.5    0.0018   18.4   2.5   2.9   3   0   0   3   3   3   1 C2H2-type zinc finger
+AF-4                 PF05110.8  PMI_022333-RA        -               0.88    7.2  14.6       1.1    6.9  14.6   1.0   1   0   0   1   1   1   0 AF-4 proto-oncoprotein
+Homeobox             PF00046.24 PMI_022363-RA        -            1.4e-20   72.5   3.7   2.2e-20   71.9   3.7   1.3   1   0   0   1   1   1   1 Homeobox domain
+HMG_box              PF00505.14 PMI_022438-RA        -            3.6e-15   55.8   0.1   7.4e-15   54.8   0.1   1.5   1   0   0   1   1   1   1 HMG (high mobility group) box
+SOXp                 PF12336.3  PMI_022441-RA        -            6.7e-30  103.4   5.5   6.7e-30  103.4   5.5   2.8   5   0   0   5   5   5   1 SOX transcription factor
+zf-C2H2              PF00096.21 PMI_022566-RA        -            4.3e-13   48.7  26.8   9.6e-07   28.7   4.5   5.1   4   0   0   4   4   4   4 Zinc finger, C2H2 type
+Fork_head            PF00250.13 PMI_022572-RA        -              7e-44  147.6   0.1   1.2e-43  146.9   0.1   1.4   1   0   0   1   1   1   1 Fork head domain
+zf-C2H2_3            PF13878.1  PMI_022579-RA        -              0.062   12.7   0.0      0.18   11.2   0.0   1.8   1   0   0   1   1   1   0 zinc-finger of acetyl-transferase ESCO
+Homeobox             PF00046.24 PMI_022673-RA        -            2.2e-25   87.9   4.0   3.6e-25   87.2   4.0   1.4   1   0   0   1   1   1   1 Homeobox domain
+Homeobox             PF00046.24 PMI_022674-RA        -            1.5e-25   88.4   4.0   2.4e-25   87.7   4.0   1.3   1   0   0   1   1   1   1 Homeobox domain
+Tub                  PF01167.13 PMI_022747-RA        -              9e-85  283.4   0.2   5.6e-76  254.6   0.1   2.1   1   1   1   2   2   2   2 Tub family
+zf-C2H2_4            PF13894.1  PMI_022773-RA        -             0.0017   18.4   2.7     0.062   13.5   0.1   2.5   2   0   0   2   2   2   2 C2H2-type zinc finger
+zf-C2H2_4            PF13894.1  PMI_022791-RA        -            5.7e-08   32.4   2.8    0.0085   16.2   0.4   3.0   2   0   0   2   2   2   2 C2H2-type zinc finger
+PHD                  PF00628.24 PMI_022817-RA        -            2.8e-22   78.0  25.5   1.3e-11   43.8  12.2   3.3   3   0   0   3   3   3   2 PHD-finger
+Homeobox             PF00046.24 PMI_022836-RA        -              2e-17   62.4   2.5   4.1e-17   61.4   2.5   1.6   1   0   0   1   1   1   1 Homeobox domain
+Homeobox             PF00046.24 PMI_022837-RA        -            2.7e-42  142.0  22.9   1.4e-22   78.9   5.2   2.6   3   0   0   3   3   3   2 Homeobox domain
+HALZ                 PF02183.13 PMI_022856-RA        -               0.26   10.9   2.0      0.66    9.6   2.0   1.7   1   0   0   1   1   1   0 Homeobox associated leucine zipper
+zf-C2H2              PF00096.21 PMI_022890-RA        -            2.8e-22   77.7  36.2   0.00013   22.0   0.4   6.3   6   0   0   6   6   6   6 Zinc finger, C2H2 type
+zf-C2H2_4            PF13894.1  PMI_022908-RA        -               0.26   11.6   1.8      0.71   10.2   1.8   1.8   1   0   0   1   1   1   0 C2H2-type zinc finger
+Homeobox             PF00046.24 PMI_022986-RA        -            2.3e-22   78.2   6.1   4.1e-22   77.4   6.1   1.4   1   0   0   1   1   1   1 Homeobox domain
+zf-B_box             PF00643.19 PMI_023009-RA        -            1.9e-10   40.3  17.3   6.1e-08   32.3   3.7   4.6   5   0   0   5   5   5   2 B-box zinc finger
+Homeobox             PF00046.24 PMI_023082-RA        -              2e-11   43.2   0.6   3.1e-11   42.5   0.6   1.3   1   0   0   1   1   1   1 Homeobox domain
+Homeobox_KN          PF05920.6  PMI_023083-RA        -            1.1e-15   56.8   0.1   1.9e-15   56.1   0.1   1.4   1   0   0   1   1   1   1 Homeobox KN domain
+zf-C2H2              PF00096.21 PMI_023200-RA        -            1.1e-05   25.4   0.8   1.1e-05   25.4   0.8   2.9   2   0   0   2   2   2   1 Zinc finger, C2H2 type
+Homeobox             PF00046.24 PMI_023204-RA        -            4.8e-63  208.5  17.4   8.2e-16   57.2   0.2   5.2   4   0   0   4   4   4   4 Homeobox domain
+Fork_head            PF00250.13 PMI_023236-RA        -            2.2e-42  142.8   0.0   4.2e-42  141.9   0.0   1.5   1   0   0   1   1   1   1 Fork head domain
+FBA                  PF04300.8  PMI_023286-RA        -            1.6e-36  125.9   0.1     7e-19   68.3   0.2   2.2   1   1   1   2   2   2   2 F-box associated region
+Ets                  PF00178.17 PMI_023324-RA        -            1.8e-29  101.5   0.4   3.5e-29  100.6   0.4   1.4   1   0   0   1   1   1   1 Ets-domain
+HLH                  PF00010.21 PMI_023361-RA        -            1.1e-17   63.3   0.1     3e-17   61.9   0.1   1.8   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+bZIP_1               PF00170.16 PMI_023499-RA        -            4.7e-13   48.7  16.5   5.3e-13   48.5  15.2   1.7   1   1   1   2   2   2   1 bZIP transcription factor
+Homeobox             PF00046.24 PMI_023526-RA        -            7.9e-23   79.7   6.1   1.4e-22   78.9   6.1   1.4   1   0   0   1   1   1   1 Homeobox domain
+zf-C2H2              PF00096.21 PMI_023553-RA        -            4.9e-20   70.6  24.3   1.7e-07   31.1   0.1   4.5   4   0   0   4   4   4   4 Zinc finger, C2H2 type
+PAX                  PF00292.13 PMI_023580-RA        -            7.5e-67  222.6   0.4   8.6e-67  222.4   0.4   1.0   1   0   0   1   1   1   1 'Paired box' domain
+HLH                  PF00010.21 PMI_023592-RA        -            8.5e-16   57.3   0.3   8.5e-16   57.3   0.3   2.6   2   0   0   2   2   2   1 Helix-loop-helix DNA-binding domain
+zf-C2H2_4            PF13894.1  PMI_023601-RA        -            0.00027   20.9  29.0      0.54   10.6   1.2   6.1   5   0   0   5   5   5   4 C2H2-type zinc finger
+zf-C4                PF00105.13 PMI_023656-RA        -            1.2e-24   86.1  17.6   1.2e-24   86.1  17.6   1.7   2   0   0   2   2   2   1 Zinc finger, C4 type (two domains)
+PHD                  PF00628.24 PMI_023677-RA        -            1.3e-09   37.4  10.5   3.8e-09   36.0  10.5   1.9   1   0   0   1   1   1   1 PHD-finger
+HSF_DNA-bind         PF00447.12 PMI_023702-RA        -            2.5e-09   37.0   0.2   5.2e-09   36.0   0.2   1.5   1   0   0   1   1   1   1 HSF-type DNA-binding
+IRF                  PF00605.12 PMI_023745-RA        -            9.3e-39  131.5   0.2   1.7e-38  130.6   0.2   1.4   1   0   0   1   1   1   1 Interferon regulatory factor transcription factor
+HLH                  PF00010.21 PMI_023804-RA        -            1.4e-16   59.8   0.5   2.5e-16   59.0   0.5   1.4   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+Ets                  PF00178.17 PMI_023878-RA        -            2.3e-38  130.0   0.5   3.4e-38  129.5   0.5   1.3   1   0   0   1   1   1   1 Ets-domain
+zf-C2H2              PF00096.21 PMI_023909-RA        -             0.0006   19.9  56.2      0.03   14.6   6.0   7.3   7   0   0   7   7   7   3 Zinc finger, C2H2 type
+Fork_head            PF00250.13 PMI_024000-RA        -            2.1e-17   62.7   0.2   2.1e-17   62.7   0.2   1.8   2   0   0   2   2   2   1 Fork head domain
+Homeobox_KN          PF05920.6  PMI_024047-RA        -            2.7e-14   52.4   0.8   3.8e-14   51.9   0.8   1.2   1   0   0   1   1   1   1 Homeobox KN domain
+zf-B_box             PF00643.19 PMI_024089-RA        -            9.6e-11   41.2  21.6   2.9e-08   33.3  10.7   4.7   3   1   1   4   4   4   2 B-box zinc finger
+zf-B_box             PF00643.19 PMI_024090-RA        -              3e-11   42.8  20.1     1e-08   34.8   9.4   4.1   3   1   1   4   4   4   2 B-box zinc finger
+Homeobox             PF00046.24 PMI_024149-RA        -            2.3e-21   75.0   4.2   3.7e-21   74.4   4.2   1.3   1   0   0   1   1   1   1 Homeobox domain
+Hormone_recep        PF00104.25 PMI_024157-RA        -            1.1e-09   37.5   0.4   2.2e-09   36.6   0.4   1.4   1   1   0   1   1   1   1 Ligand-binding domain of nuclear hormone receptor
+PAX                  PF00292.13 PMI_024207-RA        -            7.2e-64  213.0   0.8   1.4e-63  212.1   0.8   1.5   1   0   0   1   1   1   1 'Paired box' domain
+FBA                  PF04300.8  PMI_024314-RA        -            5.5e-09   36.1   0.0   6.8e-09   35.8   0.0   1.1   1   0   0   1   1   1   1 F-box associated region
+GCM                  PF03615.10 PMI_024432-RA        -            6.3e-69  229.9   2.3   1.5e-68  228.7   2.3   1.7   1   0   0   1   1   1   1 GCM motif protein
+Fork_head            PF00250.13 PMI_024539-RA        -            5.3e-39  132.0   0.0     9e-39  131.3   0.0   1.3   1   0   0   1   1   1   1 Fork head domain
+Fork_head            PF00250.13 PMI_024540-RA        -            2.4e-44  149.1   0.1   4.3e-44  148.3   0.1   1.4   1   0   0   1   1   1   1 Fork head domain
+Fork_head            PF00250.13 PMI_024541-RA        -            2.1e-43  146.1   0.1   3.6e-43  145.3   0.1   1.4   1   0   0   1   1   1   1 Fork head domain
+Ets                  PF00178.17 PMI_024608-RA        -            1.4e-40  137.2   0.7   1.9e-40  136.7   0.7   1.2   1   0   0   1   1   1   1 Ets-domain
+Homeobox             PF00046.24 PMI_024615-RA        -              8e-14   50.9   0.9   1.5e-13   50.0   0.9   1.4   1   0   0   1   1   1   1 Homeobox domain
+HLH                  PF00010.21 PMI_024682-RA        -            3.2e-12   45.8   1.4   1.5e-09   37.2   1.4   2.5   1   1   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+zf-C2H2              PF00096.21 PMI_024703-RA        -            5.5e-05   23.2   6.9     0.001   19.2   0.6   2.5   2   0   0   2   2   2   2 Zinc finger, C2H2 type
+zf-C2H2              PF00096.21 PMI_024704-RA        -            3.1e-34  115.3  83.6   2.6e-07   30.5   1.6   9.5  10   0   0  10  10  10   8 Zinc finger, C2H2 type
+zf-C4                PF00105.13 PMI_024725-RA        -            2.2e-31  107.7  15.0   3.3e-31  107.2  15.0   1.3   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+Homeobox             PF00046.24 PMI_024738-RA        -            1.9e-41  139.3  19.6   1.3e-20   72.5   5.8   2.3   2   0   0   2   2   2   2 Homeobox domain
+Homeobox             PF00046.24 PMI_024739-RA        -            8.1e-22   76.4   1.3   1.2e-21   75.9   1.3   1.3   1   0   0   1   1   1   1 Homeobox domain
+zf-C2H2_6            PF13912.1  PMI_024760-RA        -            1.4e-05   24.7   0.7     3e-05   23.6   0.7   1.6   1   0   0   1   1   1   1 C2H2-type zinc finger
+Homeobox             PF00046.24 PMI_024804-RA        -            2.6e-20   71.7   2.1   3.3e-20   71.3   2.1   1.1   1   0   0   1   1   1   1 Homeobox domain
+zf-C2H2              PF00096.21 PMI_024845-RA        -              0.011   15.9   8.1     0.019   15.2   8.1   1.4   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+PHD                  PF00628.24 PMI_024847-RA        -            7.3e-22   76.6  31.4   1.1e-08   34.5   3.5   4.2   3   1   0   3   3   3   3 PHD-finger
+FBA                  PF04300.8  PMI_024860-RA        -              0.031   14.1   0.0     0.063   13.1   0.0   1.5   1   0   0   1   1   1   0 F-box associated region
+IRF                  PF00605.12 PMI_024873-RA        -            6.4e-38  128.8   0.7   9.9e-38  128.2   0.7   1.3   1   0   0   1   1   1   1 Interferon regulatory factor transcription factor
+HMG_CoA_synt_C       PF08540.5  PMI_024975-RA        -            1.7e-80  270.3   0.0   2.2e-67  227.4   0.0   2.1   1   1   1   2   2   2   2 Hydroxymethylglutaryl-coenzyme A synthase C terminal
+HTH_psq              PF05225.11 PMI_024993-RA        -            2.8e-08   33.0   0.1   8.5e-08   31.5   0.1   1.8   1   0   0   1   1   1   1 helix-turn-helix, Psq domain
+MH2                  PF03166.9  PMI_025016-RA        -            8.7e-57  191.7   0.0   2.3e-56  190.4   0.0   1.6   1   1   0   1   1   1   1 MH2 domain
+PHD                  PF00628.24 PMI_025038-RA        -              0.022   14.3   7.8     0.056   13.0   7.8   1.7   1   0   0   1   1   1   0 PHD-finger
+zf-C2H2              PF00096.21 PMI_025076-RA        -              6e-12   45.1  17.9   0.00056   20.0   1.0   5.8   5   0   0   5   5   5   4 Zinc finger, C2H2 type
+bZIP_1               PF00170.16 PMI_025115-RA        -            8.7e-13   47.9   4.0   1.5e-12   47.1   4.0   1.4   1   0   0   1   1   1   1 bZIP transcription factor
+MH2                  PF03166.9  PMI_025179-RA        -            2.4e-49  167.5   0.0   3.3e-49  167.0   0.0   1.1   1   0   0   1   1   1   1 MH2 domain
+MH2                  PF03166.9  PMI_025219-RA        -            6.8e-48  162.7   0.1   3.4e-26   92.0   0.1   2.1   1   1   1   2   2   2   2 MH2 domain
+HMG_box              PF00505.14 PMI_025301-RA        -            1.7e-11   44.0   3.2   1.1e-05   25.5   0.9   2.6   2   0   0   2   2   2   2 HMG (high mobility group) box
+HLH                  PF00010.21 PMI_025359-RA        -            1.1e-17   63.3   4.7   1.5e-17   62.9   4.7   1.2   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+HMG_CoA_synt_C       PF08540.5  PMI_025368-RA        -            1.8e-78  263.7   0.0   2.1e-78  263.5   0.0   1.1   1   0   0   1   1   1   1 Hydroxymethylglutaryl-coenzyme A synthase C terminal
+zf-C2H2              PF00096.21 PMI_025370-RA        -            0.00013   22.0   2.9    0.0088   16.3   0.0   3.3   3   0   0   3   3   3   1 Zinc finger, C2H2 type
+zf-C2H2_2            PF12756.2  PMI_025396-RA        -            2.1e-38  130.3  12.0   1.2e-22   79.7   2.5   2.2   2   0   0   2   2   2   2 C2H2 type zinc-finger (2 copies)
+zf-C2H2_6            PF13912.1  PMI_025418-RA        -            0.00054   19.6   0.6   0.00054   19.6   0.6   2.9   2   1   1   3   3   3   1 C2H2-type zinc finger
+Homeobox             PF00046.24 PMI_025451-RA        -            3.3e-10   39.3   0.1   5.5e-10   38.6   0.1   1.3   1   0   0   1   1   1   1 Homeobox domain
+IRF                  PF00605.12 PMI_025486-RA        -            1.9e-34  117.6   0.2   2.6e-18   65.6   0.2   2.2   2   0   0   2   2   2   2 Interferon regulatory factor transcription factor
+PHD                  PF00628.24 PMI_025494-RA        -            0.00075   19.0   0.9    0.0013   18.2   0.9   1.4   1   0   0   1   1   1   1 PHD-finger
+Homeobox             PF00046.24 PMI_025517-RA        -              4e-13   48.6   2.8   1.3e-12   47.0   0.8   2.4   2   0   0   2   2   2   1 Homeobox domain
+zf-C2H2              PF00096.21 PMI_025604-RA        -            5.2e-37  124.1 119.5   1.5e-05   25.0   2.4  13.4  13   0   0  13  13  13  11 Zinc finger, C2H2 type
+Ets                  PF00178.17 PMI_025658-RA        -              4e-33  113.2   0.5     4e-33  113.2   0.5   1.7   2   0   0   2   2   2   1 Ets-domain
+zf-C2H2              PF00096.21 PMI_025671-RA        -            0.00065   19.8  11.7     0.019   15.2   2.7   3.1   2   0   0   2   2   2   2 Zinc finger, C2H2 type
+HMG_box              PF00505.14 PMI_025688-RA        -            9.5e-24   83.3   1.3   9.5e-24   83.3   1.3   2.7   4   0   0   4   4   4   1 HMG (high mobility group) box
+zf-C4                PF00105.13 PMI_025934-RA        -            1.5e-23   82.6  15.6   2.5e-23   81.9  15.6   1.4   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+GCN5L1               PF06320.8  PMI_025954-RA        -            1.6e-15   56.8   0.5   1.9e-15   56.6   0.5   1.1   1   0   0   1   1   1   1 GCN5-like protein 1 (GCN5L1)
+PAX                  PF00292.13 PMI_025956-RA        -            8.1e-64  212.8   0.2     1e-63  212.5   0.2   1.0   1   0   0   1   1   1   1 'Paired box' domain
+PAX                  PF00292.13 PMI_025957-RA        -              1e-46  157.6   0.5   2.2e-46  156.5   0.5   1.5   1   1   0   1   1   1   1 'Paired box' domain
+Ets                  PF00178.17 PMI_025993-RA        -            1.4e-31  108.3   1.5   2.2e-31  107.6   1.5   1.3   1   0   0   1   1   1   1 Ets-domain
+zf-C2H2              PF00096.21 PMI_025999-RA        -            1.6e-09   37.5  10.5   0.00021   21.4   3.0   2.7   2   0   0   2   2   2   2 Zinc finger, C2H2 type
+T-box                PF00907.17 PMI_026029-RA        -            2.3e-49  167.2   0.0   2.8e-49  166.9   0.0   1.1   1   0   0   1   1   1   1 T-box
+MH2                  PF03166.9  PMI_026102-RA        -            2.2e-47  161.0   0.0   2.9e-47  160.7   0.0   1.1   1   0   0   1   1   1   1 MH2 domain
+HMG_box              PF00505.14 PMI_026120-RA        -            5.7e-13   48.8   1.1   8.2e-07   29.0   0.2   2.5   2   0   0   2   2   2   2 HMG (high mobility group) box
+Homeobox             PF00046.24 PMI_026132-RA        -            8.4e-14   50.8   0.5   1.8e-13   49.8   0.5   1.5   1   0   0   1   1   1   1 Homeobox domain
+zf-C2H2_4            PF13894.1  PMI_026146-RA        -            8.9e-13   47.5  33.1    0.0099   16.0   1.1   5.7   5   0   0   5   5   5   5 C2H2-type zinc finger
+PHD                  PF00628.24 PMI_026175-RA        -            2.2e-05   23.9   5.2   2.2e-05   23.9   5.2   2.4   2   0   0   2   2   2   1 PHD-finger
+zf-C2H2              PF00096.21 PMI_026271-RA        -            7.9e-16   57.4  36.6   6.4e-06   26.1   0.5   5.8   5   0   0   5   5   5   5 Zinc finger, C2H2 type
+Homeobox             PF00046.24 PMI_026310-RA        -            1.4e-20   72.5   6.2   2.6e-20   71.6   6.2   1.4   1   0   0   1   1   1   1 Homeobox domain
+zf-C2H2              PF00096.21 PMI_026435-RA        -            9.6e-05   22.4   1.4   0.00018   21.6   1.4   1.5   1   0   0   1   1   1   1 Zinc finger, C2H2 type
+F-box-like           PF12937.2  PMI_026462-RA        -            6.4e-09   35.2   1.0   1.8e-08   33.8   1.0   1.8   1   0   0   1   1   1   1 F-box-like
+Homeobox_KN          PF05920.6  PMI_026540-RA        -              4e-21   74.3   0.6   6.2e-21   73.7   0.6   1.3   1   0   0   1   1   1   1 Homeobox KN domain
+PHD                  PF00628.24 PMI_026561-RA        -            1.7e-12   46.7  40.9   1.6e-06   27.6  13.3   3.6   1   1   1   3   3   3   3 PHD-finger
+Homeobox             PF00046.24 PMI_026639-RA        -            1.5e-19   69.2   7.0     3e-19   68.2   6.0   1.9   2   0   0   2   2   2   1 Homeobox domain
+HALZ                 PF02183.13 PMI_026664-RA        -               0.14   11.7   1.7      0.45   10.1   1.7   1.8   1   0   0   1   1   1   0 Homeobox associated leucine zipper
+Ets                  PF00178.17 PMI_026723-RA        -            1.1e-33  115.1   0.8   2.1e-33  114.1   0.8   1.5   1   0   0   1   1   1   1 Ets-domain
+Myc_N                PF01056.13 PMI_026744-RA        -               0.13   11.3   9.2      0.17   10.9   9.2   1.2   1   0   0   1   1   1   0 Myc amino-terminal region
+PHD                  PF00628.24 PMI_026804-RA        -            6.3e-06   25.6   2.9   9.7e-06   25.0   2.9   1.3   1   0   0   1   1   1   1 PHD-finger
+PAXNEB               PF05625.6  PMI_026818-RA        -            3.4e-28   98.4   0.0     1e-26   93.5   0.0   2.6   1   1   0   1   1   1   1 PAXNEB protein
+zf-B_box             PF00643.19 PMI_026879-RA        -            9.1e-06   25.3  11.0   1.6e-05   24.5  11.0   1.4   1   0   0   1   1   1   1 B-box zinc finger
+zf-B_box             PF00643.19 PMI_026917-RA        -            1.6e-10   40.5  25.1   8.9e-08   31.7  10.6   4.0   4   0   0   4   4   4   2 B-box zinc finger
+zf-C4                PF00105.13 PMI_026930-RA        -            1.9e-28   98.3  11.5   3.7e-28   97.4  11.5   1.5   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+TEA                  PF01285.13 PMI_026931-RA        -            1.7e-64  218.4   3.2   1.4e-50  172.6   1.1   2.0   1   1   1   2   2   2   2 TEA/ATTS domain family
+zf-C4                PF00105.13 PMI_026944-RA        -            4.2e-29  100.4  17.9     6e-29   99.9  17.9   1.2   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+Homeobox             PF00046.24 PMI_026957-RA        -            6.3e-39  131.2  11.2   3.7e-19   67.9   2.0   2.6   2   0   0   2   2   2   2 Homeobox domain
+Neuro_bHLH           PF12533.3  PMI_026977-RA        -            5.7e-19   68.9  12.0   6.8e-18   65.5   9.0   2.9   2   1   0   2   2   2   1 Neuronal helix-loop-helix transcription factor
+Homeobox             PF00046.24 PMI_027019-RA        -            3.7e-14   51.9   0.5   5.6e-14   51.3   0.5   1.2   1   0   0   1   1   1   1 Homeobox domain
+zf-C4                PF00105.13 PMI_027023-RA        -            2.4e-24   85.2  11.3   4.8e-24   84.2  11.3   1.5   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+Homeobox             PF00046.24 PMI_027117-RA        -            1.4e-19   69.3   3.7   1.9e-19   68.8   3.7   1.2   1   0   0   1   1   1   1 Homeobox domain
+CUT                  PF02376.10 PMI_027159-RA        -            7.1e-31  105.7   0.1   1.2e-30  105.0   0.1   1.3   1   0   0   1   1   1   1 CUT domain
+Homeobox             PF00046.24 PMI_027160-RA        -              2e-11   43.2   0.6   3.1e-11   42.5   0.6   1.3   1   0   0   1   1   1   1 Homeobox domain
+Ets                  PF00178.17 PMI_027167-RA        -            1.7e-40  136.9   0.6   2.4e-40  136.4   0.6   1.2   1   0   0   1   1   1   1 Ets-domain
+HMG_box              PF00505.14 PMI_027229-RA        -            6.4e-08   32.6   0.5   1.2e-07   31.7   0.5   1.4   1   0   0   1   1   1   1 HMG (high mobility group) box
+zf-C2H2              PF00096.21 PMI_027268-RA        -            2.1e-26   90.6  31.0     3e-06   27.2   0.2   5.6   5   0   0   5   5   5   5 Zinc finger, C2H2 type
+zf-C2H2              PF00096.21 PMI_027279-RA        -             0.0049   17.1   3.6    0.0049   17.1   3.6   2.4   3   0   0   3   3   3   1 Zinc finger, C2H2 type
+HMG_box              PF00505.14 PMI_027322-RA        -            1.4e-25   89.2   3.3   5.7e-13   48.8   0.7   2.8   2   0   0   2   2   2   2 HMG (high mobility group) box
+PAX                  PF00292.13 PMI_027339-RA        -            3.5e-62  207.5   0.5   4.7e-62  207.1   0.5   1.1   1   0   0   1   1   1   1 'Paired box' domain
+bZIP_1               PF00170.16 PMI_027346-RA        -              2e-06   27.5   4.4   4.2e-06   26.4   4.4   1.5   1   0   0   1   1   1   1 bZIP transcription factor
+Homeobox             PF00046.24 PMI_027444-RA        -            1.8e-22   78.6   2.1   3.2e-22   77.7   2.1   1.5   1   0   0   1   1   1   1 Homeobox domain
+MH2                  PF03166.9  PMI_027452-RA        -            2.5e-41  141.3   0.0   2.8e-41  141.2   0.0   1.0   1   0   0   1   1   1   1 MH2 domain
+F-box-like           PF12937.2  PMI_027456-RA        -            2.4e-08   33.4   0.2   6.4e-08   32.0   0.1   1.7   2   0   0   2   2   2   1 F-box-like
+zf-C4                PF00105.13 PMI_027462-RA        -            5.7e-28   96.8  13.9   5.7e-28   96.8  13.9   1.6   2   0   0   2   2   2   1 Zinc finger, C4 type (two domains)
+zf-C2H2_4            PF13894.1  PMI_027515-RA        -               0.14   12.4   2.3      0.38   11.1   0.6   2.8   2   0   0   2   2   2   0 C2H2-type zinc finger
+HLH                  PF00010.21 PMI_027529-RA        -              2e-15   56.1   2.9   4.1e-15   55.1   2.9   1.6   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+Homeobox             PF00046.24 PMI_027573-RA        -            5.2e-19   67.5   6.2   1.1e-18   66.4   6.2   1.6   1   0   0   1   1   1   1 Homeobox domain
+zf-C4                PF00105.13 PMI_027607-RA        -            5.7e-16   58.3   1.7   1.2e-15   57.3   1.7   1.5   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+HMG_box              PF00505.14 PMI_027617-RA        -            8.4e-43  144.3   1.5     1e-23   83.2   0.3   3.9   4   0   0   4   4   4   3 HMG (high mobility group) box
+PHD                  PF00628.24 PMI_027653-RA        -            1.2e-17   63.2  21.2     2e-09   36.8   7.9   2.2   1   1   1   2   2   2   2 PHD-finger
+zf-C2H2              PF00096.21 PMI_027698-RA        -            1.7e-08   34.3  27.4    0.0063   16.7   0.4   6.3   6   0   0   6   6   6   4 Zinc finger, C2H2 type
+zf-C2H2_4            PF13894.1  PMI_027753-RA        -            1.1e-07   31.5  11.1     0.025   14.8   0.3   3.9   3   0   0   3   3   3   3 C2H2-type zinc finger
+Homeobox             PF00046.24 PMI_027799-RA        -            2.9e-22   77.9   4.6   4.8e-22   77.2   4.6   1.4   1   0   0   1   1   1   1 Homeobox domain
+Homeobox             PF00046.24 PMI_027841-RA        -              2e-22   78.4   7.4     2e-22   78.4   7.4   1.8   2   0   0   2   2   2   1 Homeobox domain
+zf-B_box             PF00643.19 PMI_027856-RA        -            2.7e-13   49.4  31.6   2.4e-10   40.0   7.4   3.8   3   0   0   3   3   3   2 B-box zinc finger
+zf-C4                PF00105.13 PMI_027859-RA        -            1.3e-33  114.9  16.7   1.6e-33  114.5  16.7   1.1   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+PAX                  PF00292.13 PMI_027864-RA        -            1.8e-62  208.5   0.1   2.4e-62  208.1   0.1   1.2   1   0   0   1   1   1   1 'Paired box' domain
+Hormone_recep        PF00104.25 PMI_027866-RA        -             0.0027   16.7   0.0    0.0028   16.6   0.0   1.1   1   0   0   1   1   1   1 Ligand-binding domain of nuclear hormone receptor
+BESS                 PF02944.15 PMI_027921-RA        -              0.017   14.5   0.1     0.038   13.4   0.1   1.5   1   0   0   1   1   1   0 BESS motif
+Homeobox             PF00046.24 PMI_027942-RA        -            9.2e-11   41.1   0.0   1.5e-10   40.4   0.0   1.3   1   0   0   1   1   1   1 Homeobox domain
+Homeobox             PF00046.24 PMI_027961-RA        -            1.9e-23   81.7   8.3   3.1e-23   81.0   8.3   1.4   1   0   0   1   1   1   1 Homeobox domain
+Homeobox             PF00046.24 PMI_027985-RA        -            5.8e-22   76.9   0.7   8.6e-22   76.4   0.7   1.3   1   0   0   1   1   1   1 Homeobox domain
+HMG_box              PF00505.14 PMI_027989-RA        -            1.6e-24   85.8   5.5   3.7e-24   84.6   5.5   1.6   1   0   0   1   1   1   1 HMG (high mobility group) box
+Homeobox             PF00046.24 PMI_028007-RA        -            1.9e-22   78.4   3.9   1.9e-22   78.4   3.9   1.9   2   0   0   2   2   2   1 Homeobox domain
+zf-C2H2              PF00096.21 PMI_028029-RA        -            4.6e-06   26.6  10.3    0.0033   17.6   1.2   2.5   2   0   0   2   2   2   2 Zinc finger, C2H2 type
+Homeobox             PF00046.24 PMI_028049-RA        -            1.4e-19   69.3   3.7   1.9e-19   68.9   3.7   1.2   1   0   0   1   1   1   1 Homeobox domain
+Fork_head            PF00250.13 PMI_028053-RA        -            9.8e-07   28.6   0.0   1.4e-06   28.1   0.0   1.2   1   0   0   1   1   1   1 Fork head domain
+zf-A20               PF01754.11 PMI_028054-RA        -              2e-12   46.3   8.0   4.2e-12   45.2   8.0   1.6   1   0   0   1   1   1   1 A20-like zinc finger
+zf-C4                PF00105.13 PMI_028073-RA        -            1.1e-17   63.9   8.3   2.7e-17   62.6   8.3   1.7   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+Homeobox             PF00046.24 PMI_028080-RA        -            1.6e-22   78.7   5.4   3.4e-22   77.7   5.4   1.6   1   0   0   1   1   1   1 Homeobox domain
+FBA                  PF04300.8  PMI_028090-RA        -            9.5e-29  100.5   0.4   1.9e-18   66.9   0.2   2.1   1   1   1   2   2   2   2 F-box associated region
+zf-C2H2              PF00096.21 PMI_028118-RA        -              0.004   17.3   5.1     0.004   17.3   5.1   2.2   2   0   0   2   2   2   1 Zinc finger, C2H2 type
+T-box                PF00907.17 PMI_028213-RA        -              2e-38  131.6   0.1   2.6e-38  131.2   0.1   1.0   1   0   0   1   1   1   1 T-box
+zf-C2HC              PF01530.13 PMI_028223-RA        -            7.6e-28   95.8  24.5   2.3e-14   52.6   8.4   2.6   3   0   0   3   3   2   2 Zinc finger, C2HC type
+Pou                  PF00157.12 PMI_028224-RA        -            8.2e-24   82.9   0.0   1.7e-23   81.9   0.0   1.5   1   0   0   1   1   1   1 Pou domain - N-terminal to homeobox domain
+zf-C4                PF00105.13 PMI_028256-RA        -            1.8e-08   34.3   2.2   1.8e-08   34.3   0.9   1.7   2   0   0   2   2   2   1 Zinc finger, C4 type (two domains)
+Ets                  PF00178.17 PMI_028319-RA        -            8.6e-36  121.8   2.2   1.2e-35  121.4   2.2   1.2   1   0   0   1   1   1   1 Ets-domain
+HLH                  PF00010.21 PMI_028352-RA        -            5.7e-14   51.4   3.5     6e-14   51.3   1.9   1.9   2   0   0   2   2   2   1 Helix-loop-helix DNA-binding domain
+Hormone_recep        PF00104.25 PMI_028382-RA        -            4.9e-19   68.1   0.7   9.2e-19   67.2   0.7   1.4   1   0   0   1   1   1   1 Ligand-binding domain of nuclear hormone receptor
+Homeobox             PF00046.24 PMI_028394-RA        -            1.1e-22   79.3   8.2   1.8e-22   78.5   8.2   1.4   1   0   0   1   1   1   1 Homeobox domain
+Homeobox             PF00046.24 PMI_028426-RA        -            2.3e-21   75.0   3.3   3.9e-21   74.3   3.3   1.3   1   0   0   1   1   1   1 Homeobox domain
+Homeobox             PF00046.24 PMI_028481-RA        -            6.6e-21   73.5   2.7   9.4e-21   73.0   2.7   1.2   1   0   0   1   1   1   1 Homeobox domain
+HLH                  PF00010.21 PMI_028557-RA        -            1.4e-12   47.0   0.4   1.4e-12   47.0   0.4   2.5   3   0   0   3   3   3   1 Helix-loop-helix DNA-binding domain
+HMG_box              PF00505.14 PMI_028568-RA        -            5.5e-26   90.5   1.8   5.5e-26   90.5   1.8   2.2   3   0   0   3   3   3   1 HMG (high mobility group) box
+zf-C2H2              PF00096.21 PMI_028574-RA        -            4.2e-11   42.5  13.3   1.9e-05   24.7   7.1   2.1   2   0   0   2   2   2   2 Zinc finger, C2H2 type
+zf-C2H2              PF00096.21 PMI_028581-RA        -               0.04   14.2   3.9       0.3   11.4   0.3   2.9   2   0   0   2   2   2   0 Zinc finger, C2H2 type
+Fork_head            PF00250.13 PMI_028597-RA        -              5e-35  119.3   0.0   8.8e-35  118.5   0.0   1.3   1   0   0   1   1   1   1 Fork head domain
+Homeobox             PF00046.24 PMI_028602-RA        -              6e-21   73.7   8.2   7.8e-21   73.3   8.2   1.1   1   0   0   1   1   1   1 Homeobox domain
+HLH                  PF00010.21 PMI_028635-RA        -            6.2e-08   32.1   0.8   7.4e-08   31.8   0.8   1.1   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+zf-C4                PF00105.13 PMI_028647-RA        -              5e-33  113.0  16.9   5.9e-33  112.8  16.9   1.0   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+HLH                  PF00010.21 PMI_028674-RA        -            4.5e-16   58.1   0.1     7e-16   57.5   0.1   1.3   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+F-box-like           PF12937.2  PMI_028698-RA        -            3.2e-12   45.8   1.6   5.7e-12   45.0   1.6   1.4   1   0   0   1   1   1   1 F-box-like
+Ets                  PF00178.17 PMI_028714-RA        -            7.9e-33  112.3   1.5   7.9e-32  109.1   1.5   2.0   1   1   0   1   1   1   1 Ets-domain
+Homeobox             PF00046.24 PMI_028777-RA        -            5.1e-21   73.9   6.3   7.9e-21   73.3   6.3   1.3   1   0   0   1   1   1   1 Homeobox domain
+zf-C2H2              PF00096.21 PMI_028818-RA        -            3.4e-07   30.2  21.1   0.00015   21.8   0.3   3.3   3   0   0   3   3   3   2 Zinc finger, C2H2 type
+zf-C2H2_4            PF13894.1  PMI_028847-RA        -             0.0019   18.3   2.5    0.0019   18.3   2.5   2.8   3   0   0   3   3   3   1 C2H2-type zinc finger
+Hormone_recep        PF00104.25 PMI_028877-RA        -            5.8e-17   61.3   0.7   7.8e-17   60.9   0.7   1.2   1   0   0   1   1   1   1 Ligand-binding domain of nuclear hormone receptor
+zf-C2H2              PF00096.21 PMI_028929-RA        -            4.3e-13   48.7  32.1   1.7e-05   24.8   5.9   4.2   4   0   0   4   4   4   3 Zinc finger, C2H2 type
+zf-C2H2              PF00096.21 PMI_028980-RA        -            2.6e-15   55.7  26.1   1.6e-06   28.0   0.7   4.6   4   0   0   4   4   4   3 Zinc finger, C2H2 type
+Homeobox             PF00046.24 PMI_028983-RA        -            1.1e-23   82.5   9.2   1.8e-23   81.7   9.2   1.4   1   0   0   1   1   1   1 Homeobox domain
+HLH                  PF00010.21 PMI_029010-RA        -            0.00043   19.8   0.2   0.00059   19.3   0.2   1.2   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+NAM                  PF02365.10 PMI_029012-RA        -            0.00073   19.6   0.1    0.0012   18.8   0.1   1.4   1   0   0   1   1   1   1 No apical meristem (NAM) protein
+zf-C2H2              PF00096.21 PMI_029040-RA        -            1.2e-11   44.2   1.1     1e-06   28.6   0.1   2.1   2   0   0   2   2   2   2 Zinc finger, C2H2 type
+Ets                  PF00178.17 PMI_029075-RA        -            5.3e-19   68.0   1.5     7e-19   67.6   1.5   1.1   1   0   0   1   1   1   1 Ets-domain
+HTH_psq              PF05225.11 PMI_029092-RA        -            1.8e-09   36.8   0.0   5.1e-09   35.4   0.0   1.8   1   0   0   1   1   1   1 helix-turn-helix, Psq domain
+Runt                 PF00853.14 PMI_029121-RA        -            3.7e-52  175.1   0.0   4.6e-52  174.7   0.0   1.1   1   0   0   1   1   1   1 Runt domain
+BESS                 PF02944.15 PMI_029191-RA        -              0.022   14.1   0.1     0.054   12.9   0.1   1.6   1   0   0   1   1   1   0 BESS motif
+zf-C2H2              PF00096.21 PMI_029199-RA        -            4.6e-09   36.0  27.7   0.00036   20.7   7.6   3.9   3   0   0   3   3   3   3 Zinc finger, C2H2 type
+Homeobox             PF00046.24 PMI_029202-RA        -            2.7e-22   78.0   5.2   3.8e-22   77.5   5.2   1.2   1   0   0   1   1   1   1 Homeobox domain
+Hormone_recep        PF00104.25 PMI_029216-RA        -              3e-16   59.0   0.0   3.5e-16   58.8   0.0   1.1   1   0   0   1   1   1   1 Ligand-binding domain of nuclear hormone receptor
+F-box-like           PF12937.2  PMI_029220-RA        -              1e-12   47.4   1.8     2e-12   46.5   1.8   1.5   1   0   0   1   1   1   1 F-box-like
+Homeobox             PF00046.24 PMI_029305-RA        -            1.3e-20   72.6   4.9   2.1e-20   71.9   4.9   1.3   1   0   0   1   1   1   1 Homeobox domain
+zf-C2H2              PF00096.21 PMI_029321-RA        -            1.8e-24   84.6  31.3     1e-05   25.5   0.5   5.6   5   0   0   5   5   5   5 Zinc finger, C2H2 type
+Homeobox             PF00046.24 PMI_029349-RA        -            1.8e-09   36.9   0.0   3.6e-09   35.9   0.0   1.5   1   0   0   1   1   1   1 Homeobox domain
+zf-C2H2              PF00096.21 PMI_029442-RA        -            3.3e-10   39.7  12.8   7.7e-06   25.9   0.4   3.1   3   0   0   3   3   3   2 Zinc finger, C2H2 type
+Homeobox             PF00046.24 PMI_029444-RA        -            3.6e-21   74.4   7.6   5.5e-21   73.8   7.6   1.3   1   0   0   1   1   1   1 Homeobox domain
+F-box-like           PF12937.2  PMI_029471-RA        -            7.7e-15   54.2   2.4   2.1e-14   52.8   2.4   1.8   1   0   0   1   1   1   1 F-box-like
+Fork_head            PF00250.13 PMI_029475-RA        -            3.3e-45  151.9   0.1   6.6e-45  150.9   0.1   1.5   1   0   0   1   1   1   1 Fork head domain
+Homeobox             PF00046.24 PMI_029501-RA        -            2.4e-15   55.7   0.8     2e-14   52.8   0.2   2.2   2   0   0   2   2   2   1 Homeobox domain
+Fork_head            PF00250.13 PMI_029504-RA        -            9.6e-43  144.0   0.0   1.8e-42  143.1   0.0   1.5   1   0   0   1   1   1   1 Fork head domain
+Hormone_recep        PF00104.25 PMI_029520-RA        -            1.5e-14   53.4   0.9   2.5e-14   52.7   0.9   1.3   1   0   0   1   1   1   1 Ligand-binding domain of nuclear hormone receptor
+zf-C2H2              PF00096.21 PMI_029523-RA        -            1.3e-11   44.1  10.6   1.4e-05   25.0   3.4   2.2   2   0   0   2   2   2   2 Zinc finger, C2H2 type
+Fork_head            PF00250.13 PMI_029533-RA        -            2.7e-41  139.4   0.2   4.7e-41  138.6   0.2   1.3   1   0   0   1   1   1   1 Fork head domain
+HLH                  PF00010.21 PMI_029561-RA        -            6.2e-15   54.5   1.4   6.2e-15   54.5   1.4   2.7   2   1   1   3   3   3   1 Helix-loop-helix DNA-binding domain
+HLH                  PF00010.21 PMI_029609-RA        -            7.2e-17   60.7   0.4   1.2e-16   60.0   0.4   1.4   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+bZIP_2               PF07716.10 PMI_029685-RA        -            6.5e-15   54.5   9.2   6.5e-15   54.5   9.2   1.6   2   0   0   2   2   2   1 Basic region leucine zipper

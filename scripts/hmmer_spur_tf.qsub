@@ -1,0 +1,14 @@
+#!/bin/bash -login
+
+#PBS -l walltime=96:00:00,nodes=1:ppn=2,mem=16gb
+#PBS -N TF_hmm
+#PBS -A ged
+#PBS -M elijahlowe@gmail.com
+#PBS -m abe
+
+module load hmmer
+cd ${SCRATCH}/TF_search
+
+hmmscan --tblout seq_table.txt --domtblout domain_table.txt Pfam-A.hmm SPU_peptide.fasta > output
+qstat -f ${PBS_JOBID}
+
